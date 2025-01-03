@@ -978,7 +978,7 @@ bool cVAOManager::LoadModelWithAssimp(std::string fileName, sModelDrawInfo& draw
 
             std::string boneName(bone->mName.C_Str());
 
-            drawInfo.BoneNameToIdMap.insert(std::pair<std::string, int>(boneName, drawInfo.BoneInfoVec.size()));
+            drawInfo.BoneNameToIdMap.insert(std::pair<std::string, int>(boneName, (int)drawInfo.BoneInfoVec.size()));
 
             // Store the offset matrices
             Bones::BoneInfo info;
