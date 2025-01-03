@@ -1,0 +1,9 @@
+[
+  "shapes/Big_Flat_Mesh_256x256_00_132K_xyz_n_rgba_uv.ply",
+  "shapes/Sphere_1_unit_Radius_xyz_n_rgba_uv.ply",
+  "shapes/Cone_xyz_n_rgba_uv.ply",
+  "shapes/Cube_1x1x1_xyz_n_rgba_uv.ply",
+  "shapes/Flat_Mesh.ply",
+  "imposter_shapes/Quad_2_sided_aligned_on_XY_plane.ply",
+  "Beholder.ply"
+]

@@ -1,0 +1,159 @@
+[
+  {
+    "MeshName": "Cone_xyz_n_rgba_uv.ply",
+    "Position": [ 0.0, 10.0, 0.0 ],
+    "FriendlyName": "cone1",
+    "ObjectType": "cone",
+    "IsUsingDebugColors": true,
+    "Orientation": [ 0.728968620300293, 0.6845471262931824, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 0.0, 0.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": []
+  },
+  {
+    "MeshName": "DeathStar_xyz_n_rgba_uv.ply",
+    "Position": [ 0.0, 100.0, 500.0 ],
+    "FriendlyName": "deathstar1",
+    "ObjectType": "deathstar",
+    "IsUsingDebugColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "deathstar\\1_AO.bmp",
+        "Ratio": 0.25
+      }
+    ]
+  },
+  {
+    "MeshName": "Sphere_1_unit_Radius_xyz_n_rgba_uv.ply",
+    "Position": [ 148.0, 250.0, 350.0 ],
+    "FriendlyName": "deathstarcamera",
+    "ObjectType": "camera",
+    "IsUsingDebugColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "Water_Texture_01.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "Big_Flat_Mesh_256x256_00_132K_xyz_n_rgba_uv.ply",
+    "Position": [ 0.0, 0.0, 0.0 ],
+    "FriendlyName": "ground1",
+    "ObjectType": "ground",
+    "IsUsingDebugColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "grass_hd_texture.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "Sphere_1_unit_Radius_xyz_n_rgba_uv.ply",
+    "Position": [ 10.0, 15.0, 0.0 ],
+    "FriendlyName": "sphere1",
+    "ObjectType": "sphere",
+    "IsUsingDebugColors": true,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 0.20000000298023224, 15.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": []
+  },
+  {
+    "MeshName": "Sphere_1_unit_Radius_xyz_n_rgba_uv.ply",
+    "Position": [ 0.0, 15.0, 0.0 ],
+    "FriendlyName": "sphere2",
+    "ObjectType": "sphere",
+    "IsUsingDebugColors": true,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 0.20000000298023224, 15.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": []
+  },
+  {
+    "MeshName": "Sphere_1_unit_Radius_xyz_n_rgba_uv.ply",
+    "Position": [ 10.0, 15.0, 0.0 ],
+    "FriendlyName": "sphere3",
+    "ObjectType": "sphere",
+    "IsUsingDebugColors": true,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 0.20000000298023224, 15.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": []
+  },
+  {
+    "MeshName": "Sphere_1_unit_Radius_xyz_n_rgba_uv.ply",
+    "Position": [ 0.0, 15.0, 0.0 ],
+    "FriendlyName": "sphere4",
+    "ObjectType": "sphere",
+    "IsUsingDebugColors": true,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 0.20000000298023224, 15.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": []
+  },
+  {
+    "MeshName": "Sphere_1_unit_Radius_xyz_n_rgba_uv.ply",
+    "Position": [ 10.0, 15.0, 0.0 ],
+    "FriendlyName": "sphere5",
+    "ObjectType": "sphere",
+    "IsUsingDebugColors": true,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 0.20000000298023224, 15.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": []
+  },
+  {
+    "MeshName": "X-Wing_xyz_n_rgba_uv.ply",
+    "Position": [ 0.0, 70.0, 0.0 ],
+    "FriendlyName": "xwing1",
+    "ObjectType": "xwing",
+    "IsUsingDebugColors": true,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "X-Wing-Texture.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "Sphere_1_unit_Radius_xyz_n_rgba_uv.ply",
+    "Position": [ 0.0, 80.0, -20.0 ],
+    "FriendlyName": "xwingcamera",
+    "ObjectType": "camera",
+    "IsUsingDebugColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "Water_Texture_01.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  }
+]

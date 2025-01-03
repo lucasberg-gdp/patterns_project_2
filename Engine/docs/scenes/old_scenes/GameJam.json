@@ -1,0 +1,1308 @@
+[
+  {
+    "MeshName": "shapes/Sphere_1_unit_Radius_xyz_n_rgba_uv.ply",
+    "Position": [ 0.0, 0.0, 0.0 ],
+    "FriendlyName": "maincamera",
+    "ObjectType": "camera",
+    "IsUsingDebugColors": true,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": []
+  },
+  {
+    "MeshName": "Captain.dae",
+    "Position": [ -26.091005325317383, 604.52490234375, 1916.0087890625 ],
+    "FriendlyName": "captain1",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": true,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Bld_Floor_Trim_01.dae",
+    "Position": [ -500.0, 0.0, 0.0 ],
+    "FriendlyName": "SM_Bld_Floor_Trim_01.dae",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "Building_Large_Brick_01.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Garden_Plants_05.dae",
+    "Position": [ 600.0, 450.0, 100.0 ],
+    "FriendlyName": "SM_Env_Garden_Plants_05.dae",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Road_Straight_01.dae",
+    "Position": [ 0.0, 0.0, -3900.0 ],
+    "FriendlyName": "SM_Env_Road_Straight_01.dae",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Tree_03.dae",
+    "Position": [ -1500.0, 65.0, 0.0 ],
+    "FriendlyName": "SM_Env_Tree_03.dae",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Generic_CloudRing_01.dae",
+    "Position": [ 800.0, 800.0, 0.0 ],
+    "FriendlyName": "SM_Generic_CloudRing_01.dae",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Generic_Ground_01.dae",
+    "Position": [ -5000.0, 0.0, -3000.0 ],
+    "FriendlyName": "island2",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Generic_Ground_Hill_01.dae",
+    "Position": [ 0.0, 0.0, -15000.0 ],
+    "FriendlyName": "SM_Generic_Ground_Hill_01.dae",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 5.0, 5.0, 5.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Bld_Pillar_Monument_Trim_02.dae",
+    "Position": [ 0.0, 0.0, 0.0 ],
+    "FriendlyName": "SM_Bld_Pillar_Monument_Trim_02.dae",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Bld_Temp_Building_01.dae",
+    "Position": [ -60.0, 1620.0, -15000.0 ],
+    "FriendlyName": "SM_Bld_Temp_Building_01.dae",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "Building_Half_Brick_01.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Generic_Ground_Hill_02.dae",
+    "Position": [ 0.0, 0.0, 0.0 ],
+    "FriendlyName": "island",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 0.7071067690849304, 0.0, 0.7071067690849304, 0.0 ],
+    "DrawScale": [ 2.0, 2.0, 2.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Garden_Plants_03.dae",
+    "Position": [ -1000.0, 450.0, -1000.0 ],
+    "FriendlyName": "SM_Env_Garden_Plants_03.dae",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Prop_Brazier_01.dae",
+    "Position": [ -300.0, 700.0, 1350.0 ],
+    "FriendlyName": "SM_Prop_Brazier_01.dae",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Prop_Brazier_01_Insert_01.dae",
+    "Position": [ -300.0, 700.0, 1350.0 ],
+    "FriendlyName": "campfire",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Tree_01.dae",
+    "Position": [ 1600.0, 230.0, -12000.0 ],
+    "FriendlyName": "fartree1",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Tree_02.dae",
+    "Position": [ -1000.0, 1570.0, -14300.0 ],
+    "FriendlyName": "fartree2",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Tree_03.dae",
+    "Position": [ -2000.0, 650.0, -13000.0 ],
+    "FriendlyName": "fartree3",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Tree_04.dae",
+    "Position": [ 900.0, 800.0, -13000.0 ],
+    "FriendlyName": "fartree4",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Ocean_Plane_Blendshape_01.dae",
+    "Position": [ 0.0, -38.0, -20000.0 ],
+    "FriendlyName": "SM_Env_Ocean_Plane_Blendshape_01.dae",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Ocean_Plane_Blendshape_01.dae",
+    "Position": [ 0.0, -38.0, 0.0 ],
+    "FriendlyName": "prop25",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Ocean_Plane_Blendshape_01.dae",
+    "Position": [ 8000.0, -38.0, 4000.0 ],
+    "FriendlyName": "prop26",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Ocean_Plane_Blendshape_01.dae",
+    "Position": [ -4000.0, -38.0, 0.0 ],
+    "FriendlyName": "prop27",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Ocean_Plane_Blendshape_01.dae",
+    "Position": [ -8000.0, -38.0, 0.0 ],
+    "FriendlyName": "prop28",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Ocean_Plane_Blendshape_01.dae",
+    "Position": [ -8000.0, -38.0, -4000.0 ],
+    "FriendlyName": "prop29",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Ocean_Plane_Blendshape_01.dae",
+    "Position": [ -8000.0, -38.0, -8000.0 ],
+    "FriendlyName": "prop30",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Ocean_Plane_Blendshape_01.dae",
+    "Position": [ -8000.0, -38.0, -12000.0 ],
+    "FriendlyName": "prop31",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Ocean_Plane_Blendshape_01.dae",
+    "Position": [ -8000.0, -38.0, -16000.0 ],
+    "FriendlyName": "prop32",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Ocean_Plane_Blendshape_01.dae",
+    "Position": [ -8000.0, -38.0, -20000.0 ],
+    "FriendlyName": "prop33",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Ocean_Plane_Blendshape_01.dae",
+    "Position": [ -4000.0, -38.0, -20000.0 ],
+    "FriendlyName": "prop34",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Ocean_Plane_Blendshape_01.dae",
+    "Position": [ -4000.0, -38.0, -8000.0 ],
+    "FriendlyName": "prop35",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Ocean_Plane_Blendshape_01.dae",
+    "Position": [ -12000.0, -38.0, -4000.0 ],
+    "FriendlyName": "prop36",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Ocean_Plane_Blendshape_01.dae",
+    "Position": [ 0.0, -38.0, -4000.0 ],
+    "FriendlyName": "prop37",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Ocean_Plane_Blendshape_01.dae",
+    "Position": [ 0.0, -38.0, -8000.0 ],
+    "FriendlyName": "prop38",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Ocean_Plane_Blendshape_01.dae",
+    "Position": [ 0.0, -38.0, -12000.0 ],
+    "FriendlyName": "prop39",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Ocean_Plane_Blendshape_01.dae",
+    "Position": [ -4000.0, -38.0, -12000.0 ],
+    "FriendlyName": "prop40",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Ocean_Plane_Blendshape_01.dae",
+    "Position": [ -4000.0, -38.0, -16000.0 ],
+    "FriendlyName": "prop41",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Ocean_Plane_Blendshape_01.dae",
+    "Position": [ 4000.0, -38.0, -16000.0 ],
+    "FriendlyName": "prop42",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Ocean_Plane_Blendshape_01.dae",
+    "Position": [ 0.0, -38.0, -16000.0 ],
+    "FriendlyName": "prop43",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Ocean_Plane_Blendshape_01.dae",
+    "Position": [ 4000.0, -38.0, -12000.0 ],
+    "FriendlyName": "prop44",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Ocean_Plane_Blendshape_01.dae",
+    "Position": [ 4000.0, -38.0, -8000.0 ],
+    "FriendlyName": "prop45",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Ocean_Plane_Blendshape_01.dae",
+    "Position": [ 4000.0, -38.0, -4000.0 ],
+    "FriendlyName": "prop46",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Ocean_Plane_Blendshape_01.dae",
+    "Position": [ 4000.0, -38.0, -20000.0 ],
+    "FriendlyName": "prop47",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Ocean_Plane_Blendshape_01.dae",
+    "Position": [ 8000.0, -38.0, -20000.0 ],
+    "FriendlyName": "prop48",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Road_Straight_01.dae",
+    "Position": [ 0.0, 0.0, -8200.0 ],
+    "FriendlyName": "prop48",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Road_Straight_01.dae",
+    "Position": [ 0.0, 0.0, -5100.0 ],
+    "FriendlyName": "prop49",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Road_Straight_01.dae",
+    "Position": [ 0.0, 0.0, -6200.0 ],
+    "FriendlyName": "prop50",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Road_Straight_01.dae",
+    "Position": [ 0.0, 0.0, -7200.0 ],
+    "FriendlyName": "prop51",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Road_Straight_01.dae",
+    "Position": [ 0.0, 0.0, -9200.0 ],
+    "FriendlyName": "prop52",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Road_Straight_01.dae",
+    "Position": [ 0.0, 0.0, -11200.0 ],
+    "FriendlyName": "prop53",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Road_Straight_01.dae",
+    "Position": [ 0.0, 0.0, -10200.0 ],
+    "FriendlyName": "prop54",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Ocean_Plane_Blendshape_01.dae",
+    "Position": [ -4000.0, -38.0, -4000.0 ],
+    "FriendlyName": "prop55",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Ocean_Plane_Blendshape_01.dae",
+    "Position": [ -8000.0, -38.0, 0.0 ],
+    "FriendlyName": "prop56",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Ocean_Plane_Blendshape_01.dae",
+    "Position": [ -12000.0, -38.0, 0.0 ],
+    "FriendlyName": "prop57",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Ocean_Plane_Blendshape_01.dae",
+    "Position": [ -12000.0, -38.0, 4000.0 ],
+    "FriendlyName": "prop58",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Ocean_Plane_Blendshape_01.dae",
+    "Position": [ -4000.0, -38.0, 4000.0 ],
+    "FriendlyName": "prop59",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Ocean_Plane_Blendshape_01.dae",
+    "Position": [ 4000.0, -38.0, 4000.0 ],
+    "FriendlyName": "prop60",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Ocean_Plane_Blendshape_01.dae",
+    "Position": [ 0.0, -38.0, 4000.0 ],
+    "FriendlyName": "prop61",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Ocean_Plane_Blendshape_01.dae",
+    "Position": [ 4000.0, -38.0, 0.0 ],
+    "FriendlyName": "prop62",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Ocean_Plane_Blendshape_01.dae",
+    "Position": [ 8000.0, -38.0, 0.0 ],
+    "FriendlyName": "prop63",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Ocean_Plane_Blendshape_01.dae",
+    "Position": [ 8000.0, -38.0, -4000.0 ],
+    "FriendlyName": "prop64",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Ocean_Plane_Blendshape_01.dae",
+    "Position": [ 8000.0, -38.0, -8000.0 ],
+    "FriendlyName": "prop65",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Ocean_Plane_Blendshape_01.dae",
+    "Position": [ 8000.0, -38.0, -12000.0 ],
+    "FriendlyName": "prop66",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Ocean_Plane_Blendshape_01.dae",
+    "Position": [ 8000.0, -38.0, -16000.0 ],
+    "FriendlyName": "prop67",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Ocean_Plane_Blendshape_01.dae",
+    "Position": [ -12000.0, -38.0, -16000.0 ],
+    "FriendlyName": "prop68",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Ocean_Plane_Blendshape_01.dae",
+    "Position": [ -12000.0, -38.0, -12000.0 ],
+    "FriendlyName": "prop69",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Ocean_Plane_Blendshape_01.dae",
+    "Position": [ -12000.0, -38.0, -20000.0 ],
+    "FriendlyName": "prop70",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Ocean_Plane_Blendshape_01.dae",
+    "Position": [ -12000.0, -38.0, -8000.0 ],
+    "FriendlyName": "prop71",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Ocean_Plane_Blendshape_01.dae",
+    "Position": [ -8000.0, -38.0, 4000.0 ],
+    "FriendlyName": "prop72",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonAncientWorlds_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  }
+]

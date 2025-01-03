@@ -1,0 +1,196 @@
+[
+  {
+    "MeshName": "Sphere_1_unit_Radius_xyz_n_rgba_uv.ply",
+    "Position": [ -10.1897, 20.0, -114.417 ],
+    "FriendlyName": "camera",
+    "ObjectType": "camera",
+    "IsUsingDebugColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "IsWithTexture": true,
+    "ObjectTextures": [
+      {
+        "Name": "Water_Texture_01.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Prop_Snowman_xyz_n_rgba_uv.ply",
+    "Position": [ 0.0, 0.0, 0.0 ],
+    "FriendlyName": "snowman2",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 0.1, 0.1, 0.1 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "IsWithTexture": true,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonSnow_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Generic_Tree_01.ply",
+    "Position": [ -130.0, 0.0, 260.0 ],
+    "FriendlyName": "generictree",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 0.2, 0.2, 0.2 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "IsWithTexture": true,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonSnow_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Generic_Tree_01.ply",
+    "Position": [ -90.0, 0.0, 0.0 ],
+    "FriendlyName": "generictree",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 0.2, 0.2, 0.2 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "IsWithTexture": true,
+    "ObjectTextures": [
+      {
+        "Name": "PolygonSnow_Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "plain_xyz_n_rgba_uv.ply",
+    "Position": [ 0, -25, 0 ],
+    "FriendlyName": "snowground",
+    "ObjectType": "ground",
+    "IsUsingDebugColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "IsWithTexture": true,
+    "ObjectTextures": [
+      {
+        "Name": "snow_texture_1.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "Lantern_xyz_n_rgba_uv.ply",
+    "Position": [ 160, -10, -180 ],
+    "FriendlyName": "lantern",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "Orientation": [ 0.678557, 0, -0.734547, 0 ],
+    "DrawScale": [ 1.6, 1.6, 1.6 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "IsWithTexture": true,
+    "ObjectTextures": [
+      {
+        "Name": "T_LanternPole_mr.bmp",
+        "Ratio": 0.2
+      },
+      {
+        "Name": "T_LanternPole_a.bmp",
+        "Ratio": 0.2
+      },
+      {
+        "Name": "T_LanternPole_e.bmp",
+        "Ratio": 0.2
+      }
+    ]
+  },
+  {
+    "MeshName": "Lantern_xyz_n_rgba_uv.ply",
+    "Position": [ -60, 0, 80 ],
+    "FriendlyName": "lantern",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "Orientation": [ 0, 0.970137, 0, -0.242556 ],
+    "DrawScale": [ 1.6, 1.6, 1.6 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "IsWithTexture": true,
+    "ObjectTextures": [
+      {
+        "Name": "T_LanternPole_mr.bmp",
+        "Ratio": 0.2
+      },
+      {
+        "Name": "T_LanternPole_a.bmp",
+        "Ratio": 0.2
+      },
+      {
+        "Name": "T_LanternPole_e.bmp",
+        "Ratio": 0.2
+      }
+    ]
+  },
+  {
+    "MeshName": "Lantern_xyz_n_rgba_uv.ply",
+    "Position": [ 80, -10, 0 ],
+    "FriendlyName": "lantern",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "Orientation": [ 0.0357899, 0, 0.999359, 0 ],
+    "DrawScale": [ 1.6, 1.6, 1.6 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "IsWithTexture": true,
+    "ObjectTextures": [
+      {
+        "Name": "T_LanternPole_mr.bmp",
+        "Ratio": 0.2
+      },
+      {
+        "Name": "T_LanternPole_a.bmp",
+        "Ratio": 0.2
+      },
+      {
+        "Name": "T_LanternPole_e.bmp",
+        "Ratio": 0.2
+      }
+    ]
+  },
+  {
+    "MeshName": "Lantern_xyz_n_rgba_uv.ply",
+    "Position": [ 90, -10, 90 ],
+    "FriendlyName": "lantern",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "Orientation": [ -0.0142019, 0, 0.999899, 0 ],
+    "DrawScale": [ 1.6, 1.6, 1.6 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "IsWithTexture": true,
+    "ObjectTextures": [
+      {
+        "Name": "T_LanternPole_mr.bmp",
+        "Ratio": 0.2
+      },
+      {
+        "Name": "T_LanternPole_a.bmp",
+        "Ratio": 0.2
+      },
+      {
+        "Name": "T_LanternPole_e.bmp",
+        "Ratio": 0.2
+      }
+    ]
+  }
+]

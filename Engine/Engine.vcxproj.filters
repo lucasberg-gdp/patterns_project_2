@@ -1,0 +1,756 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="cMesh.cpp">
+      <Filter>Engine\Mesh</Filter>
+    </ClCompile>
+    <ClCompile Include="cDebugRenderer.cpp">
+      <Filter>Engine\Debug Renderer</Filter>
+    </ClCompile>
+    <ClCompile Include="cGlobal.cpp">
+      <Filter>Engine\Global</Filter>
+    </ClCompile>
+    <ClCompile Include="cLightHelper.cpp">
+      <Filter>Engine\Lights</Filter>
+    </ClCompile>
+    <ClCompile Include="cLightManager.cpp">
+      <Filter>Engine\Lights</Filter>
+    </ClCompile>
+    <ClCompile Include="cVAOManager\cVAOManager.cpp">
+      <Filter>Engine\Mesh Object Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="cVAOManager\sModelDrawInfo.cpp">
+      <Filter>Engine\Mesh Object Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="cPhysics.cpp">
+      <Filter>Engine\Components\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="cPhysics_BasicTests.cpp">
+      <Filter>Engine\Components\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="cPhysics_IntersectionTests.cpp">
+      <Filter>Engine\Components\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="cPhysics_Update.cpp">
+      <Filter>Engine\Components\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="PhysicsUpdateLoop.cpp">
+      <Filter>Engine\Components\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="sPhysicsProperties.cpp">
+      <Filter>Engine\Components\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="Basic Shader Manager\cShader.cpp">
+      <Filter>Engine\Shader Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="Basic Shader Manager\cShaderManager.cpp">
+      <Filter>Engine\Shader Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="glad.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LoadModels.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MathUtils.cpp">
+      <Filter>Engine\Utils\Math Helper</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureManager\C24BitBMPpixel.cpp">
+      <Filter>Engine\TextureManager</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureManager\cBasicTextureManager.cpp">
+      <Filter>Engine\TextureManager</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureManager\CTextureFromBMP.cpp">
+      <Filter>Engine\TextureManager</Filter>
+    </ClCompile>
+    <ClCompile Include="cMediaPlayer.cpp">
+      <Filter>Engine\Audio</Filter>
+    </ClCompile>
+    <ClCompile Include="cCamera.cpp">
+      <Filter>Engine\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="cGameManager.cpp">
+      <Filter>Engine\Game Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="cHiResTimer.cpp">
+      <Filter>Engine\Timing</Filter>
+    </ClCompile>
+    <ClCompile Include="cPhysics_AABB_Subdivide.cpp">
+      <Filter>Engine\Components\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="cPhysics_SweepPrune.cpp">
+      <Filter>Engine\Components\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="cInputHandler.cpp">
+      <Filter>Engine\Input</Filter>
+    </ClCompile>
+    <ClCompile Include="cColor.cpp">
+      <Filter>Engine\Utils\Color</Filter>
+    </ClCompile>
+    <ClCompile Include="cSphere.cpp">
+      <Filter>Engine\Shapes</Filter>
+    </ClCompile>
+    <ClCompile Include="cGameObject.cpp">
+      <Filter>Engine\Game Object</Filter>
+    </ClCompile>
+    <ClCompile Include="cFlyCamera.cpp">
+      <Filter>Engine\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="ScenePersistence.cpp">
+      <Filter>Engine\Scene Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="cJsonHandler.cpp">
+      <Filter>Engine\Json</Filter>
+    </ClCompile>
+    <ClCompile Include="..\dev\imgui\include\imgui.cpp">
+      <Filter>Engine\Ui Manager\Imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\dev\imgui\include\imgui_demo.cpp">
+      <Filter>Engine\Ui Manager\Imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\dev\imgui\include\imgui_draw.cpp">
+      <Filter>Engine\Ui Manager\Imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\dev\imgui\include\imgui_impl_glfw.cpp">
+      <Filter>Engine\Ui Manager\Imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\dev\imgui\include\imgui_impl_opengl3.cpp">
+      <Filter>Engine\Ui Manager\Imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\dev\imgui\include\imgui_tables.cpp">
+      <Filter>Engine\Ui Manager\Imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\dev\imgui\include\imgui_widgets.cpp">
+      <Filter>Engine\Ui Manager\Imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="cUiManager.cpp">
+      <Filter>Engine\Ui Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="cCameraManager.cpp">
+      <Filter>Engine\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="cAnimation.cpp">
+      <Filter>Engine\Systems\Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="cAnimationSystem.cpp">
+      <Filter>Engine\Systems\Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="cEnemy.cpp">
+      <Filter>Game\Game Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="cEnemyManager.cpp">
+      <Filter>Game\Game Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="cLionPlayer.cpp">
+      <Filter>Game\Game Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="cScene.cpp">
+      <Filter>Engine\Scene Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="cSkyBox.cpp">
+      <Filter>Engine\Components\Skybox</Filter>
+    </ClCompile>
+    <ClCompile Include="cPlayer.cpp">
+      <Filter>Game\Game Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="cMazeMaker_CreateOtherGraph.cpp">
+      <Filter>Engine\Utils\Maze Maker</Filter>
+    </ClCompile>
+    <ClCompile Include="cMazeMaker.cpp">
+      <Filter>Engine\Utils\Maze Maker</Filter>
+    </ClCompile>
+    <ClCompile Include="MazeGenerator.cpp">
+      <Filter>Engine\Utils\Maze Maker</Filter>
+    </ClCompile>
+    <ClCompile Include="cParticleSystem.cpp">
+      <Filter>Engine\Systems\Particles</Filter>
+    </ClCompile>
+    <ClCompile Include="cSoftBodyVerlet.cpp">
+      <Filter>Engine\Systems\Particles</Filter>
+    </ClCompile>
+    <ClCompile Include="fbo\cFBO.cpp">
+      <Filter>Engine\FBO</Filter>
+    </ClCompile>
+    <ClCompile Include="cCube.cpp">
+      <Filter>Engine\Shapes</Filter>
+    </ClCompile>
+    <ClCompile Include="softBody_Update_thread.cpp">
+      <Filter>Engine\Systems\Particles</Filter>
+    </ClCompile>
+    <ClCompile Include="Bones.cpp">
+      <Filter>Engine\Mesh Object Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="cMeshNav.cpp">
+      <Filter>Engine\Navigation</Filter>
+    </ClCompile>
+    <ClCompile Include="AnimationData.cpp">
+      <Filter>Engine\Systems\Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="Character.cpp">
+      <Filter>Engine\Systems\Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="cTreasureHunter.cpp">
+      <Filter>Game\Game Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="WindowsUtils.cpp">
+      <Filter>Engine\Utils\Windows Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="SoftBodySystem.cpp">
+      <Filter>Engine\Systems\Particles</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="AudioManager.cpp">
+      <Filter>Engine\Audio</Filter>
+    </ClCompile>
+    <ClCompile Include="cFlockEntity.cpp">
+      <Filter>Game\Game Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="LogUtils.cpp">
+      <Filter>Engine\Utils\Log Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="FBXLoader.cpp">
+      <Filter>Engine\Mesh Object Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="cAssimpHelper_Imp_Load3DModelFile.cpp">
+      <Filter>Engine\Mesh Object Manager\Assimp\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="cAssimpHelper_Imp.cpp">
+      <Filter>Engine\Mesh Object Manager\Assimp\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="cAssimpHelper.cpp">
+      <Filter>Engine\Mesh Object Manager\Assimp\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="cGLComputeEuler.cpp">
+      <Filter>Engine\Shader Manager\Compute</Filter>
+    </ClCompile>
+    <ClCompile Include="cGLBuffer_1D_SSBO.cpp">
+      <Filter>Engine\Shader Manager\Compute</Filter>
+    </ClCompile>
+    <ClCompile Include="cGLBuffer_1D_Image.cpp">
+      <Filter>Engine\Shader Manager\Compute</Filter>
+    </ClCompile>
+    <ClCompile Include="OpenGLCommon.cpp">
+      <Filter>Engine\Global</Filter>
+    </ClCompile>
+    <ClCompile Include="CharacterController.cpp">
+      <Filter>Engine\CharacterController</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="VegetationGenerator.cpp">
+      <Filter>Engine\Vegetation</Filter>
+    </ClCompile>
+    <ClCompile Include="cCommandGroup.cpp">
+      <Filter>Commands</Filter>
+    </ClCompile>
+    <ClCompile Include="cCommandFactory.cpp">
+      <Filter>Commands</Filter>
+    </ClCompile>
+    <ClCompile Include="cLuaManager.cpp">
+      <Filter>Lua</Filter>
+    </ClCompile>
+    <ClCompile Include="cCommandManager.cpp">
+      <Filter>Commands</Filter>
+    </ClCompile>
+    <ClCompile Include="cFollowObject_A.cpp">
+      <Filter>Commands\Command Types</Filter>
+    </ClCompile>
+    <ClCompile Include="cFollowBezierCubicCurve.cpp">
+      <Filter>Commands\Command Types</Filter>
+    </ClCompile>
+    <ClCompile Include="cMoveRelativeTime.cpp">
+      <Filter>Commands\Command Types</Filter>
+    </ClCompile>
+    <ClCompile Include="cOrientTo.cpp">
+      <Filter>Commands\Command Types</Filter>
+    </ClCompile>
+    <ClCompile Include="cWaitTimer.cpp">
+      <Filter>Commands\Command Types</Filter>
+    </ClCompile>
+    <ClCompile Include="cLookAtObject.cpp">
+      <Filter>Commands\Command Types</Filter>
+    </ClCompile>
+    <ClCompile Include="cLightSwitch.cpp">
+      <Filter>Commands\Command Types</Filter>
+    </ClCompile>
+    <ClCompile Include="cAddVelocity.cpp">
+      <Filter>Commands\Command Types</Filter>
+    </ClCompile>
+    <ClCompile Include="cFlickerLight.cpp">
+      <Filter>Commands\Command Types</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="cMesh.h">
+      <Filter>Engine\Mesh</Filter>
+    </ClInclude>
+    <ClInclude Include="iPhysicsMeshTransformAccess.h">
+      <Filter>Engine\Mesh</Filter>
+    </ClInclude>
+    <ClInclude Include="cDebugRender.h">
+      <Filter>Engine\Debug Renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="OpenGLCommon.h">
+      <Filter>Engine\Global</Filter>
+    </ClInclude>
+    <ClInclude Include="cGlobal.h">
+      <Filter>Engine\Global</Filter>
+    </ClInclude>
+    <ClInclude Include="GLWF_CallBacks.h">
+      <Filter>Engine\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cLightHelper.h">
+      <Filter>Engine\Lights</Filter>
+    </ClInclude>
+    <ClInclude Include="cLightManager.h">
+      <Filter>Engine\Lights</Filter>
+    </ClInclude>
+    <ClInclude Include="cVAOManager\cVAOManager.h">
+      <Filter>Engine\Mesh Object Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="cVAOManager\sModelDrawInfo.h">
+      <Filter>Engine\Mesh Object Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="cPhysics.h">
+      <Filter>Engine\Components\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="sPhysicsProperties.h">
+      <Filter>Engine\Components\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="Basic Shader Manager\cShaderManager.h">
+      <Filter>Engine\Shader Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="MathUtils.h">
+      <Filter>Engine\Utils\Math Helper</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureManager\C24BitBMPpixel.h">
+      <Filter>Engine\TextureManager</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureManager\cBasicTextureManager.h">
+      <Filter>Engine\TextureManager</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureManager\CTextureFromBMP.h">
+      <Filter>Engine\TextureManager</Filter>
+    </ClInclude>
+    <ClInclude Include="cMediaPlayer.h">
+      <Filter>Engine\Audio</Filter>
+    </ClInclude>
+    <ClInclude Include="cCamera.h">
+      <Filter>Engine\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="cGameManager.h">
+      <Filter>Engine\Game Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="cHiResTimer.h">
+      <Filter>Engine\Timing</Filter>
+    </ClInclude>
+    <ClInclude Include="cAABB.h">
+      <Filter>Engine\Components\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="cAABB_JUST_SOME_NOTE.h">
+      <Filter>Engine\Components\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="sTriangle.h">
+      <Filter>Engine\Components\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="cInputHandler.h">
+      <Filter>Engine\Input</Filter>
+    </ClInclude>
+    <ClInclude Include="cColor.h">
+      <Filter>Engine\Utils\Color</Filter>
+    </ClInclude>
+    <ClInclude Include="cSphere.h">
+      <Filter>Engine\Shapes</Filter>
+    </ClInclude>
+    <ClInclude Include="cGameObject.h">
+      <Filter>Engine\Game Object</Filter>
+    </ClInclude>
+    <ClInclude Include="iCamera.h">
+      <Filter>Engine\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="cFlyCamera.h">
+      <Filter>Engine\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="cJsonHandler.h">
+      <Filter>Engine\Json</Filter>
+    </ClInclude>
+    <ClInclude Include="cUiManager.h">
+      <Filter>Engine\Ui Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="cCameraManager.h">
+      <Filter>Engine\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="cAnimation.h">
+      <Filter>Engine\Systems\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="cAnimationSystem.h">
+      <Filter>Engine\Systems\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="cEnemy.h">
+      <Filter>Game\Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="cEnemyManager.h">
+      <Filter>Game\Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="cLionPlayer.h">
+      <Filter>Game\Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="cScene.h">
+      <Filter>Engine\Scene Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="cSkyBox.h">
+      <Filter>Engine\Components\Skybox</Filter>
+    </ClInclude>
+    <ClInclude Include="cPlayer.h">
+      <Filter>Game\Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="cMazeMaker.h">
+      <Filter>Engine\Utils\Maze Maker</Filter>
+    </ClInclude>
+    <ClInclude Include="cParticleSystem.h">
+      <Filter>Engine\Systems\Particles</Filter>
+    </ClInclude>
+    <ClInclude Include="cSoftBodyVerlet.h">
+      <Filter>Engine\Systems\Particles</Filter>
+    </ClInclude>
+    <ClInclude Include="fbo\cFBO.h">
+      <Filter>Engine\FBO</Filter>
+    </ClInclude>
+    <ClInclude Include="cCube.h">
+      <Filter>Engine\Shapes</Filter>
+    </ClInclude>
+    <ClInclude Include="sSoftBodyThreadInfo.h">
+      <Filter>Engine\Systems\Particles</Filter>
+    </ClInclude>
+    <ClInclude Include="Bones.h">
+      <Filter>Engine\Mesh Object Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="cMeshNav.h">
+      <Filter>Engine\Navigation</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimationData.h">
+      <Filter>Engine\Systems\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="Character.h">
+      <Filter>Engine\Systems\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="cTreasureHunter.h">
+      <Filter>Game\Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="WindowsUtils.h">
+      <Filter>Engine\Utils\Windows Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="SoftBodySystem.h">
+      <Filter>Engine\Systems\Particles</Filter>
+    </ClInclude>
+    <ClInclude Include="iSystem.h">
+      <Filter>Engine\Systems</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="AudioManager.h">
+      <Filter>Engine\Audio</Filter>
+    </ClInclude>
+    <ClInclude Include="cFlockEntity.h">
+      <Filter>Game\Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="iComponent.h">
+      <Filter>Engine\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="LogUtils.h">
+      <Filter>Engine\Utils\Log Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="FBXLoader.h">
+      <Filter>Engine\Mesh Object Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="cAssimpHelper.h">
+      <Filter>Engine\Mesh Object Manager\Assimp\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="cFileLoader_Imp.h">
+      <Filter>Engine\Mesh Object Manager\Assimp\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="cGLComputeEuler.h">
+      <Filter>Engine\Shader Manager\Compute</Filter>
+    </ClInclude>
+    <ClInclude Include="cGLBuffer_1D_SSBO.h">
+      <Filter>Engine\Shader Manager\Compute</Filter>
+    </ClInclude>
+    <ClInclude Include="cGLBuffer_1D_Image.h">
+      <Filter>Engine\Shader Manager\Compute</Filter>
+    </ClInclude>
+    <ClInclude Include="CharacterController.h">
+      <Filter>Engine\CharacterController</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="VegetationGenerator.h">
+      <Filter>Engine\Vegetation</Filter>
+    </ClInclude>
+    <ClInclude Include="iCommand.h">
+      <Filter>Commands</Filter>
+    </ClInclude>
+    <ClInclude Include="cCommandGroup.h">
+      <Filter>Commands</Filter>
+    </ClInclude>
+    <ClInclude Include="cCommandFactory.h">
+      <Filter>Commands</Filter>
+    </ClInclude>
+    <ClInclude Include="cLuaManager.h">
+      <Filter>Lua</Filter>
+    </ClInclude>
+    <ClInclude Include="cCommandManager.h">
+      <Filter>Commands</Filter>
+    </ClInclude>
+    <ClInclude Include="cFollowObject_A.h">
+      <Filter>Commands\Command Types</Filter>
+    </ClInclude>
+    <ClInclude Include="cFollowBezierCubicCurve.h">
+      <Filter>Commands\Command Types</Filter>
+    </ClInclude>
+    <ClInclude Include="cMoveRelativeTime.h">
+      <Filter>Commands\Command Types</Filter>
+    </ClInclude>
+    <ClInclude Include="cOrientTo.h">
+      <Filter>Commands\Command Types</Filter>
+    </ClInclude>
+    <ClInclude Include="cWaitTimer.h">
+      <Filter>Commands\Command Types</Filter>
+    </ClInclude>
+    <ClInclude Include="cLookAtObject.h">
+      <Filter>Commands\Command Types</Filter>
+    </ClInclude>
+    <ClInclude Include="cLightSwitch.h">
+      <Filter>Commands\Command Types</Filter>
+    </ClInclude>
+    <ClInclude Include="cAddVelocity.h">
+      <Filter>Commands\Command Types</Filter>
+    </ClInclude>
+    <ClInclude Include="cFlickerLight.h">
+      <Filter>Commands\Command Types</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{d08e0a8d-17e6-4713-8316-7878c87fc5b2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{14431113-b4bf-4a29-94bc-57637b1aceec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine">
+      <UniqueIdentifier>{2e5fc4bc-9b2c-4105-8989-6b6d7f3c44f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Mesh Object Manager">
+      <UniqueIdentifier>{8d550f41-729a-4e52-bc12-cf2c4dcc76b1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Mesh">
+      <UniqueIdentifier>{24f6be0c-a1b7-4ee1-b353-78f45ddaf458}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Shader Manager">
+      <UniqueIdentifier>{814f5536-97cd-433d-b8f3-9026affe204e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Shader Manager\Shaders">
+      <UniqueIdentifier>{d2b5986d-a36d-4a3f-bc8a-9371f6eea8ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Shapes">
+      <UniqueIdentifier>{686036cc-53ca-4b76-beff-66b02ac29969}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\TextureManager">
+      <UniqueIdentifier>{25fe989e-221b-4563-9088-46ac729ce2fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Audio">
+      <UniqueIdentifier>{59700fcf-3907-4774-8789-7070d894e7b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Camera">
+      <UniqueIdentifier>{ab74c5c4-edc7-49fe-bd96-574d9338ca54}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Debug Renderer">
+      <UniqueIdentifier>{8b961358-a444-419b-a891-136ff5943c96}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Game Manager">
+      <UniqueIdentifier>{9927684f-401b-43fb-9c9b-3b52de317a5b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Global">
+      <UniqueIdentifier>{9f6a49cb-b01d-41d8-bdcc-17995d1ab767}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Header Files">
+      <UniqueIdentifier>{661ac800-7dd3-4dcd-8ec7-24f511e97270}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Input">
+      <UniqueIdentifier>{39000c60-faef-40f2-a1b1-bd0b878cb772}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Lights">
+      <UniqueIdentifier>{1862f4da-745d-47f4-8663-3ae297f821f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Timing">
+      <UniqueIdentifier>{6ff68032-380a-43fa-9b87-99eccc892157}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Game Object">
+      <UniqueIdentifier>{72dcb8c3-e389-4b95-ac62-629d92589fcc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Scene Manager">
+      <UniqueIdentifier>{9a48dcde-83f6-4c4e-8cc5-6de67f7f146b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Components">
+      <UniqueIdentifier>{ba6b360a-110f-4557-a734-dd6b9861f1c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Components\Transform">
+      <UniqueIdentifier>{417fe413-06a3-4f26-8368-2d99f72f3a45}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Components\Physics">
+      <UniqueIdentifier>{e4fb6d69-9bba-4b09-b614-3ad0e589f88d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Ui Manager">
+      <UniqueIdentifier>{f0c16e6c-7ab1-4e7f-bfdc-9be9453af3d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Ui Manager\Imgui">
+      <UniqueIdentifier>{72b3e07d-57ef-4e1e-a911-0dc31ad1b3b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Components\Skybox">
+      <UniqueIdentifier>{1ec9f339-713e-482d-9316-2367c69dc1e7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Utils">
+      <UniqueIdentifier>{e1114dcd-1507-4ca3-835d-5e85e28038c5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Utils\Maze Maker">
+      <UniqueIdentifier>{06ab4137-a9e2-4943-b43f-73f402c88ffd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Utils\Math Helper">
+      <UniqueIdentifier>{0f832e47-ce68-4255-b5ae-7b84eb093b36}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\FBO">
+      <UniqueIdentifier>{2988f705-66d6-4fb6-88b0-dcd32aa14b74}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Navigation">
+      <UniqueIdentifier>{b427b2ec-e9c2-444f-9a08-2c3736031a4b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Utils\Windows Utils">
+      <UniqueIdentifier>{fb20b170-4a64-4b82-936e-03957654f551}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Systems">
+      <UniqueIdentifier>{550cb0f7-7531-487d-8ec8-8bf623116437}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game">
+      <UniqueIdentifier>{501d397f-84dd-4530-9747-a095f4b607b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Game Objects">
+      <UniqueIdentifier>{4f63a364-bec1-4dba-81d2-a8c97c70ca89}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Systems\Particles">
+      <UniqueIdentifier>{6f08c61c-90db-41dc-90f4-3759ee4f0f41}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Systems\Animation">
+      <UniqueIdentifier>{8920ed0f-ef47-4fa8-93dc-88dd78bb4311}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Utils\Log Utils">
+      <UniqueIdentifier>{fd4ba709-1c97-492c-b370-a2cdab207074}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Mesh Object Manager\Assimp">
+      <UniqueIdentifier>{3c467c87-cc22-4c0c-ba69-cd122daa8666}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Mesh Object Manager\Assimp\Header">
+      <UniqueIdentifier>{df0d6da5-5d0a-4864-921e-170e301b85bb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Mesh Object Manager\Assimp\Source">
+      <UniqueIdentifier>{430b31b5-0261-42e4-8ac1-2ffe6f4dd6b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Shader Manager\Compute">
+      <UniqueIdentifier>{f94b84cb-67e5-4e59-9e5f-ad8ce6acc75b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Assets">
+      <UniqueIdentifier>{b2ff66d4-a8ff-4f0e-84b0-954824ef8514}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Assets\Models">
+      <UniqueIdentifier>{fa0b086c-7793-4c0f-a305-533ddf3ae65e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Assets\Models\Ply Models">
+      <UniqueIdentifier>{11a48e7c-d598-43c3-aafc-c857786c849c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Assets\Models\Obj Models">
+      <UniqueIdentifier>{a62f3226-69c6-4c0d-a9c9-20beecc5f7a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Json">
+      <UniqueIdentifier>{8b894a2f-ba48-4ccc-a5ef-614923a9473f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Json\Docs">
+      <UniqueIdentifier>{0e3991c4-151c-4c72-a050-5166e0ac819e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Json\Docs\Json Files">
+      <UniqueIdentifier>{2ef96902-84fe-42bc-bb9b-ea634514023a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Json\Docs\Json Files\Scenes">
+      <UniqueIdentifier>{064c8973-d065-45ac-a5fe-f9725e9ded50}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\CharacterController">
+      <UniqueIdentifier>{26668ad3-d2fb-4781-871e-909e79cf12c1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Vegetation">
+      <UniqueIdentifier>{e8627972-f961-4706-b1a7-fee7e66e7274}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Utils\Color">
+      <UniqueIdentifier>{02eb464b-35ec-44e2-9d5d-9ea6e124ec04}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Commands">
+      <UniqueIdentifier>{62c5d321-201e-4457-98c3-366a60fdb242}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Lua">
+      <UniqueIdentifier>{13f83605-a3e7-41dc-9c64-29522e37ea01}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Commands\Command Types">
+      <UniqueIdentifier>{de2d71a7-e6f5-4115-b450-6c62622e1a84}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\shaders\fragmentShader01.glsl">
+      <Filter>Engine\Shader Manager\Shaders</Filter>
+    </None>
+    <None Include="assets\shaders\vertexShader01.glsl">
+      <Filter>Engine\Shader Manager\Shaders</Filter>
+    </None>
+    <None Include="docs\PlyModelsToLoadWithTexture.json">
+      <Filter>Engine\Json\Docs\Json Files</Filter>
+    </None>
+    <None Include="docs\Textures.json">
+      <Filter>Engine\Json\Docs\Json Files</Filter>
+    </None>
+    <None Include="assets\models\Sphere_1_unit_Radius_xyz_n_rgba_uv.ply">
+      <Filter>Game\Assets\Models\Ply Models</Filter>
+    </None>
+    <None Include="assets\models\bathtub_xyz_n_rgba_uv.ply">
+      <Filter>Game\Assets\Models\Ply Models</Filter>
+    </None>
+    <None Include="assets\models\Lantern_xyz_n_rgba_uv.ply">
+      <Filter>Game\Assets\Models\Ply Models</Filter>
+    </None>
+    <None Include="assets\models\SM_Prop_Snowman_xyz_n_rgba_uv.ply">
+      <Filter>Game\Assets\Models\Ply Models</Filter>
+    </None>
+    <None Include="docs\PlyModelsToLoad.json">
+      <Filter>Engine\Json\Docs\Json Files</Filter>
+    </None>
+    <None Include="docs\scenes\DevScene.json">
+      <Filter>Engine\Json\Docs\Json Files\Scenes</Filter>
+    </None>
+    <None Include="assets\shaders\fragmentShader01_old.glsl">
+      <Filter>Engine\Shader Manager\Shaders</Filter>
+    </None>
+    <None Include="assets\shaders\vertexShader01_old.glsl">
+      <Filter>Engine\Shader Manager\Shaders</Filter>
+    </None>
+    <None Include="assets\shaders\geometryPassThrough.glsl">
+      <Filter>Engine\Shader Manager\Shaders</Filter>
+    </None>
+    <None Include="docs\scenes\PatternsProject2.json">
+      <Filter>Engine\Json\Docs\Json Files\Scenes</Filter>
+    </None>
+    <None Include="LuaScripts\Cutscene.lua" />
+  </ItemGroup>
+</Project>

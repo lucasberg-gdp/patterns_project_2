@@ -1,0 +1,2337 @@
+{
+  "meshes": [
+    {
+      "MeshName": "shapes/Sphere_1_unit_Radius_xyz_n_rgba_uv.ply",
+      "Position": [ 0.0, 200.0, 500.0 ],
+      "FriendlyName": "mainCamera",
+      "ObjectType": "camera",
+      "IsUsingDebugColors": true,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ -4.371138828673793e-8, -0.0, 1.0, -0.0 ],
+      "DrawScale": [ 1.0, 1.0, 1.0 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": []
+    },
+    {
+      "MeshName": "Beholder.ply",
+      "Position": [ 1000.0, 0.0, 1250.0 ],
+      "FriendlyName": "beholder",
+      "ObjectType": "enemy",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": true,
+      "IsUsingBones": false,
+      "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+      "DrawScale": [ 50.0, 50.0, 50.0 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": []
+    },
+    {
+      "MeshName": "shapes/Sphere_1_unit_Radius_xyz_n_rgba_uv.ply",
+      "Position": [ -125.0, 0.0, -100.0 ],
+      "FriendlyName": "camera",
+      "ObjectType": "camera",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": true,
+      "IsUsingBones": false,
+      "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+      "DrawScale": [ 50.0, 50.0, 50.0 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": []
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Floor_01.ply",
+      "Position": [ 0.0, -100.0, -250.0 ],
+      "FriendlyName": "floor1",
+      "ObjectType": "floor",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Floor_01.ply",
+      "Position": [ 500.0, -100.0, 500.0 ],
+      "FriendlyName": "floor2",
+      "ObjectType": "floor",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Floor_01.ply",
+      "Position": [ 0.0, -100.0, 250.0 ],
+      "FriendlyName": "floor3",
+      "ObjectType": "floor",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Floor_01.ply",
+      "Position": [ 0.0, -100.0, 500.0 ],
+      "FriendlyName": "floor4",
+      "ObjectType": "floor",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Floor_01.ply",
+      "Position": [ 750.0, -100.0, 1000.0 ],
+      "FriendlyName": "floor5",
+      "ObjectType": "floor",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Floor_01.ply",
+      "Position": [ 250.0, -100.0, 500.0 ],
+      "FriendlyName": "floor6",
+      "ObjectType": "floor",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Floor_01.ply",
+      "Position": [ 750.0, -100.0, 500.0 ],
+      "FriendlyName": "floor7",
+      "ObjectType": "floor",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Floor_01.ply",
+      "Position": [ 1000.0, -100.0, 500.0 ],
+      "FriendlyName": "floor8",
+      "ObjectType": "floor",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Floor_01.ply",
+      "Position": [ 1000.0, -100.0, 750.0 ],
+      "FriendlyName": "floor9",
+      "ObjectType": "floor",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Floor_01.ply",
+      "Position": [ 750.0, -100.0, 750.0 ],
+      "FriendlyName": "floor10",
+      "ObjectType": "floor",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Floor_01.ply",
+      "Position": [ 750.0, -100.0, 250.0 ],
+      "FriendlyName": "floor11",
+      "ObjectType": "floor",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Floor_01.ply",
+      "Position": [ 1000.0, -100.0, 250.0 ],
+      "FriendlyName": "floor12",
+      "ObjectType": "floor",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Floor_01.ply",
+      "Position": [ 750.0, -100.0, 0.0 ],
+      "FriendlyName": "floor13",
+      "ObjectType": "floor",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Floor_01.ply",
+      "Position": [ 1000.0, -100.0, 0.0 ],
+      "FriendlyName": "floor14",
+      "ObjectType": "floor",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Floor_01.ply",
+      "Position": [ 1000.0, -100.0, 1000.0 ],
+      "FriendlyName": "floor15",
+      "ObjectType": "floor",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Wall_01.ply",
+      "Position": [ 0.0, -100.0, 0.0 ],
+      "FriendlyName": "wall1",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 0.7071067690849304, 0.0, 0.7071067690849304, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Wall_01.ply",
+      "Position": [ 0.0, -100.0, -250.0 ],
+      "FriendlyName": "prop2",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 0.7071067690849304, 0.0, 0.7071067690849304, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Wall_01.ply",
+      "Position": [ -250.0, -100.0, 0.0 ],
+      "FriendlyName": "prop3",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 0.7071067690849304, 0.0, -0.7071067690849304, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Wall_01.ply",
+      "Position": [ -250.0, -100.0, 250.0 ],
+      "FriendlyName": "prop4",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 0.7071067690849304, 0.0, -0.7071067690849304, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Wall_01.ply",
+      "Position": [ -250.0, -100.0, 500.0 ],
+      "FriendlyName": "prop5",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 0.7071067690849304, 0.0, -0.7071067690849304, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Wall_01.ply",
+      "Position": [ 250.0, -100.0, 500.0 ],
+      "FriendlyName": "prop6",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Wall_01.ply",
+      "Position": [ 0.0, -100.0, 500.0 ],
+      "FriendlyName": "prop7",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Wall_01.ply",
+      "Position": [ 500.0, -100.0, 500.0 ],
+      "FriendlyName": "prop8",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Wall_01.ply",
+      "Position": [ 250.0, -100.0, 250.0 ],
+      "FriendlyName": "prop9",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ -4.371138828673793e-8, -0.0, 1.0, -0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Wall_01.ply",
+      "Position": [ 0.0, -100.0, 250.0 ],
+      "FriendlyName": "prop10",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ -4.371138828673793e-8, -0.0, 1.0, -0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Wall_Archway_01.ply",
+      "Position": [ 500.0, -100.0, 250.0 ],
+      "FriendlyName": "archaway1",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 0.7071067690849304, 0.0, 0.7071067690849304, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Prop_Dwarf_Torch_01.ply",
+      "Position": [ -125.0, 45.0, 480.0 ],
+      "FriendlyName": "torch1",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Floor_01.ply",
+      "Position": [ 0.0, -100.0, 0.0 ],
+      "FriendlyName": "floor16",
+      "ObjectType": "floor",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Wall_01.ply",
+      "Position": [ 0.0, -100.0, -500.0 ],
+      "FriendlyName": "prop13",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 0.7071067690849304, 0.0, 0.7071067690849304, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Prop_DeadBody_Dwarf_01.ply",
+      "Position": [ -180.0, -100.0, 465.0 ],
+      "FriendlyName": "dwarfbody1",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 0.7071067690849304, 0.0, -0.7071067690849304, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Wall_05.ply",
+      "Position": [ 0.0, 150.0, 500.0 ],
+      "FriendlyName": "upperWall",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Wall_05.ply",
+      "Position": [ 250.0, 150.0, 500.0 ],
+      "FriendlyName": "prop16",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Wall_05.ply",
+      "Position": [ 500.0, 150.0, 500.0 ],
+      "FriendlyName": "prop17",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Wall_05.ply",
+      "Position": [ -250.0, 150.0, 500.0 ],
+      "FriendlyName": "prop18",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 0.7071067690849304, 0.0, -0.7071067690849304, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Wall_05.ply",
+      "Position": [ -250.0, 150.0, 250.0 ],
+      "FriendlyName": "prop19",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 0.7071067690849304, 0.0, -0.7071067690849304, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Wall_05.ply",
+      "Position": [ -250.0, 150.0, 0.0 ],
+      "FriendlyName": "prop20",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 0.7071067690849304, 0.0, -0.7071067690849304, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Wall_05.ply",
+      "Position": [ 0.0, 150.0, 0.0 ],
+      "FriendlyName": "prop21",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 0.7071067690849304, 0.0, 0.7071067690849304, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Wall_05.ply",
+      "Position": [ 0.0, 150.0, -250.0 ],
+      "FriendlyName": "prop22",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 0.7071067690849304, 0.0, 0.7071067690849304, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Wall_05.ply",
+      "Position": [ 0.0, 150.0, 250.0 ],
+      "FriendlyName": "prop23",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ -4.371138828673793e-8, -0.0, 1.0, -0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Wall_05.ply",
+      "Position": [ 250.0, 150.0, 250.0 ],
+      "FriendlyName": "prop24",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ -4.371138828673793e-8, -0.0, 1.0, -0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Wall_06.ply",
+      "Position": [ 500.0, 150.0, 250.0 ],
+      "FriendlyName": "SM_Env_Dwarf_Wall_06.ply",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 0.7071067690849304, 0.0, 0.7071067690849304, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Floor_04.ply",
+      "Position": [ 1250.0, -100.0, 0.0 ],
+      "FriendlyName": "floor04_1",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Floor_04.ply",
+      "Position": [ 1250.0, -100.0, 250.0 ],
+      "FriendlyName": "prop27",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Floor_04.ply",
+      "Position": [ 1250.0, -100.0, 500.0 ],
+      "FriendlyName": "prop28",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Floor_04.ply",
+      "Position": [ 1250.0, -100.0, 750.0 ],
+      "FriendlyName": "prop29",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Floor_04.ply",
+      "Position": [ 1250.0, -100.0, 1000.0 ],
+      "FriendlyName": "prop30",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Wall_06.ply",
+      "Position": [ 1000.0, -100.0, 1500.0 ],
+      "FriendlyName": "wall06_1",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Wall_06.ply",
+      "Position": [ 750.0, -100.0, 1500.0 ],
+      "FriendlyName": "prop32",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Wall_06.ply",
+      "Position": [ 500.0, -100.0, 1250.0 ],
+      "FriendlyName": "prop33",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 0.7071067690849304, 0.0, -0.7071067690849304, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Wall_06.ply",
+      "Position": [ 500.0, -100.0, 1000.0 ],
+      "FriendlyName": "prop34",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 0.7071067690849304, 0.0, -0.7071067690849304, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Wall_06.ply",
+      "Position": [ 500.0, -100.0, 1500.0 ],
+      "FriendlyName": "prop35",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 0.7071067690849304, 0.0, -0.7071067690849304, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Wall_06.ply",
+      "Position": [ 500.0, -100.0, 750.0 ],
+      "FriendlyName": "prop36",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 0.7071067690849304, 0.0, -0.7071067690849304, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Wall_06.ply",
+      "Position": [ 500.0, -100.0, 1500.0 ],
+      "FriendlyName": "prop37",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 0.7071067690849304, 0.0, -0.7071067690849304, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Wall_02.ply",
+      "Position": [ 500.0, 150.0, 750.0 ],
+      "FriendlyName": "prop38",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 0.7071067690849304, 0.0, -0.7071067690849304, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Wall_02.ply",
+      "Position": [ 500.0, 150.0, 1000.0 ],
+      "FriendlyName": "prop39",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 0.7071067690849304, 0.0, -0.7071067690849304, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Wall_02.ply",
+      "Position": [ 500.0, 150.0, 1250.0 ],
+      "FriendlyName": "prop40",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 0.7071067690849304, 0.0, -0.7071067690849304, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Wall_02.ply",
+      "Position": [ 500.0, 150.0, 1500.0 ],
+      "FriendlyName": "prop41",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 0.7071067690849304, 0.0, -0.7071067690849304, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Wall_02.ply",
+      "Position": [ 750.0, 150.0, 1500.0 ],
+      "FriendlyName": "prop42",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Wall_02.ply",
+      "Position": [ 1000.0, 150.0, 1500.0 ],
+      "FriendlyName": "prop43",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Wall_02.ply",
+      "Position": [ 1250.0, 150.0, 1500.0 ],
+      "FriendlyName": "prop44",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Wall_02.ply",
+      "Position": [ 1500.0, 150.0, 1500.0 ],
+      "FriendlyName": "prop45",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Wall_02.ply",
+      "Position": [ 1500.0, 150.0, 1250.0 ],
+      "FriendlyName": "prop46",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 0.7071067690849304, 0.0, 0.7071067690849304, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Wall_02.ply",
+      "Position": [ 1500.0, 150.0, 1000.0 ],
+      "FriendlyName": "prop47",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 0.7071067690849304, 0.0, 0.7071067690849304, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Wall_02.ply",
+      "Position": [ 1500.0, 150.0, 750.0 ],
+      "FriendlyName": "prop48",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 0.7071067690849304, 0.0, 0.7071067690849304, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Wall_02.ply",
+      "Position": [ 1500.0, 150.0, 500.0 ],
+      "FriendlyName": "prop49",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 0.7071067690849304, 0.0, 0.7071067690849304, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Wall_02.ply",
+      "Position": [ 1500.0, 150.0, 250.0 ],
+      "FriendlyName": "prop50",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 0.7071067690849304, 0.0, 0.7071067690849304, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Wall_02.ply",
+      "Position": [ 1500.0, 150.0, 0.0 ],
+      "FriendlyName": "prop51",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 0.7071067690849304, 0.0, 0.7071067690849304, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Wall_02.ply",
+      "Position": [ 1500.0, 150.0, -250.0 ],
+      "FriendlyName": "prop52",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 0.7071067690849304, 0.0, 0.7071067690849304, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Wall_06.ply",
+      "Position": [ 1250.0, -100.0, 1500.0 ],
+      "FriendlyName": "prop53",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Wall_06.ply",
+      "Position": [ 1500.0, -100.0, 1500.0 ],
+      "FriendlyName": "prop54",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Wall_06.ply",
+      "Position": [ 1500.0, -100.0, 1250.0 ],
+      "FriendlyName": "prop55",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 0.7071067690849304, 0.0, 0.7071067690849304, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Wall_06.ply",
+      "Position": [ 1500.0, -100.0, 1000.0 ],
+      "FriendlyName": "prop56",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 0.7071067690849304, 0.0, 0.7071067690849304, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Wall_06.ply",
+      "Position": [ 1500.0, -100.0, 750.0 ],
+      "FriendlyName": "prop57",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 0.7071067690849304, 0.0, 0.7071067690849304, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Wall_06.ply",
+      "Position": [ 1500.0, -100.0, 500.0 ],
+      "FriendlyName": "prop58",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 0.7071067690849304, 0.0, 0.7071067690849304, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Wall_06.ply",
+      "Position": [ 1500.0, -100.0, 250.0 ],
+      "FriendlyName": "prop59",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 0.7071067690849304, 0.0, 0.7071067690849304, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Wall_06.ply",
+      "Position": [ 1500.0, -100.0, 0.0 ],
+      "FriendlyName": "prop60",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 0.7071067690849304, 0.0, 0.7071067690849304, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Wall_06.ply",
+      "Position": [ 1500.0, -100.0, -250.0 ],
+      "FriendlyName": "prop61",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 0.7071067690849304, 0.0, 0.7071067690849304, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Floor_04.ply",
+      "Position": [ 1500.0, -100.0, 0.0 ],
+      "FriendlyName": "prop62",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Floor_04.ply",
+      "Position": [ 1500.0, -100.0, 250.0 ],
+      "FriendlyName": "prop63",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Floor_04.ply",
+      "Position": [ 1500.0, -100.0, 500.0 ],
+      "FriendlyName": "prop64",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Floor_04.ply",
+      "Position": [ 1500.0, -100.0, 750.0 ],
+      "FriendlyName": "prop65",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Floor_04.ply",
+      "Position": [ 1500.0, -100.0, 1000.0 ],
+      "FriendlyName": "prop66",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Floor_04.ply",
+      "Position": [ 1500.0, -100.0, 1250.0 ],
+      "FriendlyName": "prop67",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Floor_04.ply",
+      "Position": [ 1500.0, -100.0, 1500.0 ],
+      "FriendlyName": "prop68",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Floor_04.ply",
+      "Position": [ 1250.0, -100.0, 1500.0 ],
+      "FriendlyName": "prop69",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Floor_04.ply",
+      "Position": [ 1000.0, -100.0, 1500.0 ],
+      "FriendlyName": "prop70",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Floor_04.ply",
+      "Position": [ 750.0, -100.0, 1250.0 ],
+      "FriendlyName": "prop71",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Floor_04.ply",
+      "Position": [ 750.0, -100.0, 1500.0 ],
+      "FriendlyName": "prop72",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Floor_04.ply",
+      "Position": [ 1000.0, -100.0, 1250.0 ],
+      "FriendlyName": "prop73",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Floor_04.ply",
+      "Position": [ 1250.0, -100.0, 1250.0 ],
+      "FriendlyName": "prop74",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+      "DrawScale": [ 0.5, 0.5, 0.5 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "TreasureChest.ply",
+      "Position": [ 1400.0, -100.0, 380.0 ],
+      "FriendlyName": "TreasureChest",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+      "DrawScale": [ 100.0, 100.0, 100.0 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "dungeon_texture.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Wall_03.ply",
+      "Position": [ 400.0, 400.0, 400.0 ],
+      "FriendlyName": "rubble1",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 0.8191520571708679, 0.0, 0.5735764503479004, 0.0 ],
+      "DrawScale": [ 0.10000000149011612, 0.10000000149011612, 0.800000011920929 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    },
+    {
+      "MeshName": "SM_Env_Dwarf_Wall_03.ply",
+      "Position": [ 200.0, 400.0, 330.0 ],
+      "FriendlyName": "rubble2",
+      "ObjectType": "prop",
+      "IsUsingDebugColors": false,
+      "IsUsingVertexColors": false,
+      "IsUsingBones": false,
+      "Orientation": [ 0.9848077297210693, 0.0, -0.1736481785774231, 0.0 ],
+      "DrawScale": [ 0.10000000149011612, 0.10000000149011612, 0.800000011920929 ],
+      "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Alpha": 1.0,
+      "ObjectTextures": [
+        {
+          "Name": "Dungeons_2_Texture_01_A.bmp",
+          "Ratio": 1.0
+        }
+      ]
+    }
+  ],
+  "cameras": [
+    {
+      "CameraType": "flyCamera",
+      "Position": [ -686.9907836914063, 844.3072509765625, 110.86605072021484 ],
+      "Target": [ 0.8491131067276001, -0.4028470516204834, 0.3485550284385681 ],
+      "Orientation": [ 0.8070994019508362, 0.13779807090759277, 0.5538358688354492, -0.16287639737129211 ],
+      "Forward": [ 0.0, 0.0, 1.0 ],
+      "Up": [ 0.0, 1.0, 0.0 ],
+      "NearClip": 0.10000000149011612,
+      "FarClip": 105000.0
+    },
+    {
+      "CameraType": "camera",
+      "Position": [ 519.9984130859375, 0.0, 369.94573974609375 ],
+      "Target": [ 0.0, 0.0, 0.0 ],
+      "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+      "Forward": [ 0.0, 0.0, 1.0 ],
+      "Up": [ 0.0, 1.0, 0.0 ],
+      "NearClip": 0.10000000149011612,
+      "FarClip": 105000.0
+    }
+  ],
+  "lights": [
+    {
+      "Position": [ 0.0, 500.0, 0.0, 1.0 ],
+      "Diffuse": [ 0.7871972322463989, 0.7871979475021362, 0.8921568393707275, 1.0 ],
+      "Specular": [ 0.5490195751190186, 0.462898850440979, 0.462898850440979, 1.0 ],
+      "Atten": [ 0.5, 0.800000011920929, 0.10000000149011612, 0.10000000149011612 ],
+      "Direction": [ 0.0, -0.5, 0.5, 0.0 ],
+      "Param1": [ 2.0, 70.0, 60.0, 1.0 ],
+      "Param2": [ 1.0, 0.0, 0.0, 1.0 ],
+      "FriendlyName": "directional"
+    },
+    {
+      "Position": [ 1000.0, 5.0, 1250.0, 0.0 ],
+      "Diffuse": [ 0.8627451062202454, 0.28807926177978516, 0.21145714819431305, 1.0 ],
+      "Specular": [ 0.779411792755127, 0.2702544927597046, 0.026744531467556953, 1.0 ],
+      "Atten": [ 0.0, 0.000009999999747378752, 0.000009999999747378752, 9.999999974752427e-7 ],
+      "Direction": [ 0.0, 0.0, 1.0, 0.0 ],
+      "Param1": [ 1.0, 20.0, 40.0, 1.0 ],
+      "Param2": [ 0.0, 0.0, 0.0, 1.0 ],
+      "FriendlyName": "beholder"
+    },
+    {
+      "Position": [ -125.0, 68.0, 460.0, 1.0 ],
+      "Diffuse": [ 0.970588207244873, 0.5019463300704956, 0.03330450877547264, 1.0 ],
+      "Specular": [ 0.75, 0.07201561331748962, 0.05147060751914978, 1.0 ],
+      "Atten": [ 0.10000000149011612, 9.999999974752427e-7, 0.000025999999706982635, 0.009999999776482582 ],
+      "Direction": [ 0.0, -1.0, 0.0, 1.0 ],
+      "Param1": [ 0.0, 30.0, 60.0, 1.0 ],
+      "Param2": [ 1.0, 0.0, 0.0, 1.0 ],
+      "FriendlyName": "torch1"
+    },
+    {
+      "Position": [ 50.0, 10.0, 85.0, 1.0 ],
+      "Diffuse": [ 0.9686269760131836, 0.9607840180397034, 0.6392160058021545, 1.0 ],
+      "Specular": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Atten": [ 0.0, 0.2528170049190521, 0.000056004100770223886, 1.0 ],
+      "Direction": [ 0.0, -1.0, 0.0, 1.0 ],
+      "Param1": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Param2": [ 0.0, 0.0, 0.0, 1.0 ],
+      "FriendlyName": "postlight"
+    },
+    {
+      "Position": [ 150.0, 5.0, 50.0, 0.0 ],
+      "Diffuse": [ 0.9686269760131836, 0.9607840180397034, 0.6392160058021545, 1.0 ],
+      "Specular": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Atten": [ 0.0, 0.2528170049190521, 0.000056004100770223886, 1.0 ],
+      "Direction": [ 0.0, -1.0, 0.0, 1.0 ],
+      "Param1": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Param2": [ 0.0, 0.0, 0.0, 1.0 ],
+      "FriendlyName": "postlight"
+    },
+    {
+      "Position": [ -2.0, 7.0, -20.0, 1.0 ],
+      "Diffuse": [ 0.7941176295280457, 0.5916954278945923, 0.5916954278945923, 1.0 ],
+      "Specular": [ 0.8382352590560913, 0.5341694951057434, 0.5341694951057434, 1.0 ],
+      "Atten": [ 0.5, 0.10000000149011612, 0.009999999776482582, 1.0 ],
+      "Direction": [ 0.0, -1.0, 0.0, 0.0 ],
+      "Param1": [ 1.0, 45.0, 60.0, 1.0 ],
+      "Param2": [ 0.0, 0.0, 0.0, 1.0 ],
+      "FriendlyName": "fightclub"
+    },
+    {
+      "Position": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Diffuse": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Specular": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Atten": [ 0.5, 0.5, 0.5, 1.0 ],
+      "Direction": [ 0.0, -1.0, 0.0, 1.0 ],
+      "Param1": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Param2": [ 0.0, 0.0, 0.0, 1.0 ],
+      "FriendlyName": "notnamed"
+    },
+    {
+      "Position": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Diffuse": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Specular": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Atten": [ 0.5, 0.5, 0.5, 1.0 ],
+      "Direction": [ 0.0, -1.0, 0.0, 1.0 ],
+      "Param1": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Param2": [ 0.0, 0.0, 0.0, 1.0 ],
+      "FriendlyName": "notnamed"
+    },
+    {
+      "Position": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Diffuse": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Specular": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Atten": [ 0.5, 0.5, 0.5, 1.0 ],
+      "Direction": [ 0.0, -1.0, 0.0, 1.0 ],
+      "Param1": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Param2": [ 0.0, 0.0, 0.0, 1.0 ],
+      "FriendlyName": "notnamed"
+    },
+    {
+      "Position": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Diffuse": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Specular": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Atten": [ 0.5, 0.5, 0.5, 1.0 ],
+      "Direction": [ 0.0, -1.0, 0.0, 1.0 ],
+      "Param1": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Param2": [ 0.0, 0.0, 0.0, 1.0 ],
+      "FriendlyName": "notnamed"
+    },
+    {
+      "Position": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Diffuse": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Specular": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Atten": [ 0.5, 0.5, 0.5, 1.0 ],
+      "Direction": [ 0.0, -1.0, 0.0, 1.0 ],
+      "Param1": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Param2": [ 0.0, 0.0, 0.0, 1.0 ],
+      "FriendlyName": "notnamed"
+    },
+    {
+      "Position": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Diffuse": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Specular": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Atten": [ 0.5, 0.5, 0.5, 1.0 ],
+      "Direction": [ 0.0, -1.0, 0.0, 1.0 ],
+      "Param1": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Param2": [ 0.0, 0.0, 0.0, 1.0 ],
+      "FriendlyName": "notnamed"
+    },
+    {
+      "Position": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Diffuse": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Specular": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Atten": [ 0.5, 0.5, 0.5, 1.0 ],
+      "Direction": [ 0.0, -1.0, 0.0, 1.0 ],
+      "Param1": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Param2": [ 0.0, 0.0, 0.0, 1.0 ],
+      "FriendlyName": "notnamed"
+    },
+    {
+      "Position": [ 70.0, 2.5, 0.0, 1.0 ],
+      "Diffuse": [ 0.6960784196853638, 0.18425606191158295, 0.18425606191158295, 1.0 ],
+      "Specular": [ 0.4754902124404907, 0.14944761991500854, 0.0932333692908287, 1.0 ],
+      "Atten": [ 0.5, 0.5, -3.0999972820281982, 1.0 ],
+      "Direction": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Param1": [ 0.0, 90.0, 90.0, 1.0 ],
+      "Param2": [ 0.0, 0.0, 0.0, 1.0 ],
+      "FriendlyName": "campfire"
+    },
+    {
+      "Position": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Diffuse": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Specular": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Atten": [ 0.5, 0.5, 0.5, 1.0 ],
+      "Direction": [ 0.0, -1.0, 0.0, 1.0 ],
+      "Param1": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Param2": [ 0.0, 0.0, 0.0, 1.0 ],
+      "FriendlyName": "notnamed"
+    },
+    {
+      "Position": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Diffuse": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Specular": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Atten": [ 0.5, 0.5, 0.5, 1.0 ],
+      "Direction": [ 0.0, -1.0, 0.0, 1.0 ],
+      "Param1": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Param2": [ 0.0, 0.0, 0.0, 1.0 ],
+      "FriendlyName": "notnamed"
+    },
+    {
+      "Position": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Diffuse": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Specular": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Atten": [ 0.5, 0.5, 0.5, 1.0 ],
+      "Direction": [ 0.0, -1.0, 0.0, 1.0 ],
+      "Param1": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Param2": [ 0.0, 0.0, 0.0, 1.0 ],
+      "FriendlyName": "notnamed"
+    },
+    {
+      "Position": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Diffuse": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Specular": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Atten": [ 0.5, 0.5, 0.5, 1.0 ],
+      "Direction": [ 0.0, -1.0, 0.0, 1.0 ],
+      "Param1": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Param2": [ 0.0, 0.0, 0.0, 1.0 ],
+      "FriendlyName": "notnamed"
+    },
+    {
+      "Position": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Diffuse": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Specular": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Atten": [ 0.5, 0.5, 0.5, 1.0 ],
+      "Direction": [ 0.0, -1.0, 0.0, 1.0 ],
+      "Param1": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Param2": [ 0.0, 0.0, 0.0, 1.0 ],
+      "FriendlyName": "notnamed"
+    },
+    {
+      "Position": [ 0.0, 16.0, -7.0, 1.0 ],
+      "Diffuse": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Specular": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Atten": [ 0.10000000149011612, 0.05000000074505806, 0.05000000074505806, 0.10999999940395355 ],
+      "Direction": [ 0.0, 0.0, 1.0, 1.0 ],
+      "Param1": [ 1.0, 60.0, 90.0, 1.0 ],
+      "Param2": [ 0.0, 0.0, 0.0, 1.0 ],
+      "FriendlyName": "notnamed"
+    },
+    {
+      "Position": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Diffuse": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Specular": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Atten": [ 0.5, 0.5, 0.5, 1.0 ],
+      "Direction": [ 0.0, -1.0, 0.0, 1.0 ],
+      "Param1": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Param2": [ 0.0, 0.0, 0.0, 1.0 ],
+      "FriendlyName": "notnamed"
+    },
+    {
+      "Position": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Diffuse": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Specular": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Atten": [ 0.5, 0.5, 0.5, 1.0 ],
+      "Direction": [ 0.0, -1.0, 0.0, 1.0 ],
+      "Param1": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Param2": [ 0.0, 0.0, 0.0, 1.0 ],
+      "FriendlyName": "notnamed"
+    },
+    {
+      "Position": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Diffuse": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Specular": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Atten": [ 0.5, 0.5, 0.5, 1.0 ],
+      "Direction": [ 0.0, -1.0, 0.0, 1.0 ],
+      "Param1": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Param2": [ 0.0, 0.0, 0.0, 1.0 ],
+      "FriendlyName": "notnamed"
+    },
+    {
+      "Position": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Diffuse": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Specular": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Atten": [ 0.5, 0.5, 0.5, 1.0 ],
+      "Direction": [ 0.0, -1.0, 0.0, 1.0 ],
+      "Param1": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Param2": [ 0.0, 0.0, 0.0, 1.0 ],
+      "FriendlyName": "notnamed"
+    },
+    {
+      "Position": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Diffuse": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Specular": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Atten": [ 0.5, 0.5, 0.5, 1.0 ],
+      "Direction": [ 0.0, -1.0, 0.0, 1.0 ],
+      "Param1": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Param2": [ 0.0, 0.0, 0.0, 1.0 ],
+      "FriendlyName": "notnamed"
+    },
+    {
+      "Position": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Diffuse": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Specular": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Atten": [ 0.5, 0.5, 0.5, 1.0 ],
+      "Direction": [ 0.0, -1.0, 0.0, 1.0 ],
+      "Param1": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Param2": [ 0.0, 0.0, 0.0, 1.0 ],
+      "FriendlyName": "notnamed"
+    },
+    {
+      "Position": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Diffuse": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Specular": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Atten": [ 0.5, 0.5, 0.5, 1.0 ],
+      "Direction": [ 0.0, -1.0, 0.0, 1.0 ],
+      "Param1": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Param2": [ 0.0, 0.0, 0.0, 1.0 ],
+      "FriendlyName": "notnamed"
+    },
+    {
+      "Position": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Diffuse": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Specular": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Atten": [ 0.5, 0.5, 0.5, 1.0 ],
+      "Direction": [ 0.0, -1.0, 0.0, 1.0 ],
+      "Param1": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Param2": [ 0.0, 0.0, 0.0, 1.0 ],
+      "FriendlyName": "notnamed"
+    },
+    {
+      "Position": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Diffuse": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Specular": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Atten": [ 0.5, 0.5, 0.5, 1.0 ],
+      "Direction": [ 0.0, -1.0, 0.0, 1.0 ],
+      "Param1": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Param2": [ 0.0, 0.0, 0.0, 1.0 ],
+      "FriendlyName": "notnamed"
+    },
+    {
+      "Position": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Diffuse": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Specular": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Atten": [ 0.5, 0.5, 0.5, 1.0 ],
+      "Direction": [ 0.0, -1.0, 0.0, 1.0 ],
+      "Param1": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Param2": [ 0.0, 0.0, 0.0, 1.0 ],
+      "FriendlyName": "notnamed"
+    },
+    {
+      "Position": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Diffuse": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Specular": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Atten": [ 0.5, 0.5, 0.5, 1.0 ],
+      "Direction": [ 0.0, -1.0, 0.0, 1.0 ],
+      "Param1": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Param2": [ 0.0, 0.0, 0.0, 1.0 ],
+      "FriendlyName": "notnamed"
+    },
+    {
+      "Position": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Diffuse": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Specular": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Atten": [ 0.5, 0.5, 0.5, 1.0 ],
+      "Direction": [ 0.0, -1.0, 0.0, 1.0 ],
+      "Param1": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Param2": [ 0.0, 0.0, 0.0, 1.0 ],
+      "FriendlyName": "notnamed"
+    },
+    {
+      "Position": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Diffuse": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Specular": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Atten": [ 0.5, 0.5, 0.5, 1.0 ],
+      "Direction": [ 0.0, -1.0, 0.0, 1.0 ],
+      "Param1": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Param2": [ 0.0, 0.0, 0.0, 1.0 ],
+      "FriendlyName": "notnamed"
+    },
+    {
+      "Position": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Diffuse": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Specular": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Atten": [ 0.5, 0.5, 0.5, 1.0 ],
+      "Direction": [ 0.0, -1.0, 0.0, 1.0 ],
+      "Param1": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Param2": [ 0.0, 0.0, 0.0, 1.0 ],
+      "FriendlyName": "notnamed"
+    },
+    {
+      "Position": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Diffuse": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Specular": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Atten": [ 0.5, 0.5, 0.5, 1.0 ],
+      "Direction": [ 0.0, -1.0, 0.0, 1.0 ],
+      "Param1": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Param2": [ 0.0, 0.0, 0.0, 1.0 ],
+      "FriendlyName": "notnamed"
+    },
+    {
+      "Position": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Diffuse": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Specular": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Atten": [ 0.5, 0.5, 0.5, 1.0 ],
+      "Direction": [ 0.0, -1.0, 0.0, 1.0 ],
+      "Param1": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Param2": [ 0.0, 0.0, 0.0, 1.0 ],
+      "FriendlyName": "notnamed"
+    },
+    {
+      "Position": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Diffuse": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Specular": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Atten": [ 0.5, 0.5, 0.5, 1.0 ],
+      "Direction": [ 0.0, -1.0, 0.0, 1.0 ],
+      "Param1": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Param2": [ 0.0, 0.0, 0.0, 1.0 ],
+      "FriendlyName": "notnamed"
+    },
+    {
+      "Position": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Diffuse": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Specular": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Atten": [ 0.5, 0.5, 0.5, 1.0 ],
+      "Direction": [ 0.0, -1.0, 0.0, 1.0 ],
+      "Param1": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Param2": [ 0.0, 0.0, 0.0, 1.0 ],
+      "FriendlyName": "notnamed"
+    },
+    {
+      "Position": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Diffuse": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Specular": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Atten": [ 0.5, 0.5, 0.5, 1.0 ],
+      "Direction": [ 0.0, -1.0, 0.0, 1.0 ],
+      "Param1": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Param2": [ 0.0, 0.0, 0.0, 1.0 ],
+      "FriendlyName": "notnamed"
+    },
+    {
+      "Position": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Diffuse": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Specular": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Atten": [ 0.5, 0.5, 0.5, 1.0 ],
+      "Direction": [ 0.0, -1.0, 0.0, 1.0 ],
+      "Param1": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Param2": [ 0.0, 0.0, 0.0, 1.0 ],
+      "FriendlyName": "notnamed"
+    },
+    {
+      "Position": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Diffuse": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Specular": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Atten": [ 0.5, 0.5, 0.5, 1.0 ],
+      "Direction": [ 0.0, -1.0, 0.0, 1.0 ],
+      "Param1": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Param2": [ 0.0, 0.0, 0.0, 1.0 ],
+      "FriendlyName": "notnamed"
+    },
+    {
+      "Position": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Diffuse": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Specular": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Atten": [ 0.5, 0.5, 0.5, 1.0 ],
+      "Direction": [ 0.0, -1.0, 0.0, 1.0 ],
+      "Param1": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Param2": [ 0.0, 0.0, 0.0, 1.0 ],
+      "FriendlyName": "notnamed"
+    },
+    {
+      "Position": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Diffuse": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Specular": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Atten": [ 0.5, 0.5, 0.5, 1.0 ],
+      "Direction": [ 0.0, -1.0, 0.0, 1.0 ],
+      "Param1": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Param2": [ 0.0, 0.0, 0.0, 1.0 ],
+      "FriendlyName": "notnamed"
+    },
+    {
+      "Position": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Diffuse": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Specular": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Atten": [ 0.5, 0.5, 0.5, 1.0 ],
+      "Direction": [ 0.0, -1.0, 0.0, 1.0 ],
+      "Param1": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Param2": [ 0.0, 0.0, 0.0, 1.0 ],
+      "FriendlyName": "notnamed"
+    },
+    {
+      "Position": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Diffuse": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Specular": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Atten": [ 0.5, 0.5, 0.5, 1.0 ],
+      "Direction": [ 0.0, -1.0, 0.0, 1.0 ],
+      "Param1": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Param2": [ 0.0, 0.0, 0.0, 1.0 ],
+      "FriendlyName": "notnamed"
+    },
+    {
+      "Position": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Diffuse": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Specular": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Atten": [ 0.5, 0.5, 0.5, 1.0 ],
+      "Direction": [ 0.0, -1.0, 0.0, 1.0 ],
+      "Param1": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Param2": [ 0.0, 0.0, 0.0, 1.0 ],
+      "FriendlyName": "notnamed"
+    },
+    {
+      "Position": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Diffuse": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Specular": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Atten": [ 0.5, 0.5, 0.5, 1.0 ],
+      "Direction": [ 0.0, -1.0, 0.0, 1.0 ],
+      "Param1": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Param2": [ 0.0, 0.0, 0.0, 1.0 ],
+      "FriendlyName": "notnamed"
+    },
+    {
+      "Position": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Diffuse": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Specular": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Atten": [ 0.5, 0.5, 0.5, 1.0 ],
+      "Direction": [ 0.0, -1.0, 0.0, 1.0 ],
+      "Param1": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Param2": [ 0.0, 0.0, 0.0, 1.0 ],
+      "FriendlyName": "notnamed"
+    },
+    {
+      "Position": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Diffuse": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Specular": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Atten": [ 0.5, 0.5, 0.5, 1.0 ],
+      "Direction": [ 0.0, -1.0, 0.0, 1.0 ],
+      "Param1": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Param2": [ 0.0, 0.0, 0.0, 1.0 ],
+      "FriendlyName": "notnamed"
+    },
+    {
+      "Position": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Diffuse": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Specular": [ 1.0, 1.0, 1.0, 1.0 ],
+      "Atten": [ 0.5, 0.5, 0.5, 1.0 ],
+      "Direction": [ 0.0, -1.0, 0.0, 1.0 ],
+      "Param1": [ 0.0, 0.0, 0.0, 1.0 ],
+      "Param2": [ 0.0, 0.0, 0.0, 1.0 ],
+      "FriendlyName": "notnamed"
+    }
+  ]
+}

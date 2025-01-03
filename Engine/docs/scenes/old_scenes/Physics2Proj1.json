@@ -1,0 +1,38 @@
+[
+  {
+    "MeshName": "shapes/Sphere_1_unit_Radius_xyz_n_rgba_uv.ply",
+    "Position": [ 8.0, 0.0, -15.0 ],
+    "FriendlyName": "lioncamera",
+    "ObjectType": "camera",
+    "IsUsingDebugColors": true,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "Water_Texture_01.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "condor.ply",
+    "Position": [ 0.0, 0.0, 0.0 ],
+    "FriendlyName": "condor1",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": true,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 0.10000000149011612, 0.10000000149011612, 0.10000000149011612 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  }
+]

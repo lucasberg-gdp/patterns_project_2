@@ -1,0 +1,987 @@
+[
+  {
+    "MeshName": "asteroid_other_xyz_n_rgba_uv.ply",
+    "Position": [ 29.0, -215.0, -64.0 ],
+    "FriendlyName": "asteroid_other",
+    "ObjectType": "station",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": true,
+    "Orientation": [ -4.371138828673793e-8, -0.0, 1.0, -0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": []
+  },
+  {
+    "MeshName": "SM_Env_Consoles_01_xyz_n_rgba_uv.ply",
+    "Position": [ 10.0, 0.0, -5.0 ],
+    "FriendlyName": "centerconsole",
+    "ObjectType": "console",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "SpaceInteriors_Texture.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Consoles_01_screen_1_xyz_n_rgba_uv.ply",
+    "Position": [ 10.0, 0.0, -5.0 ],
+    "FriendlyName": "centerconsolescreen1",
+    "ObjectType": "consolescreen",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 0.0, 0.0, 0.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "console_screen_texture_1.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Consoles_01_screen_2_xyz_n_rgba_uv.ply",
+    "Position": [ 10.0, 0.0, -5.0 ],
+    "FriendlyName": "centerconsolescreen2",
+    "ObjectType": "consolescreen",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 0.699999988079071,
+    "ObjectTextures": [
+      {
+        "Name": "fingerprints_on_glass_texture.bmp",
+        "Ratio": 0.8999999761581421
+      },
+      {
+        "Name": "fog_on_glass_texture.bmp",
+        "Ratio": 0.10000000149011612
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Consoles_01_screen_3_xyz_n_rgba_uv.ply",
+    "Position": [ 10.0, 0.0, -5.0 ],
+    "FriendlyName": "centerconsolescreen3",
+    "ObjectType": "console",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 0.0, 0.0, 0.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "console_screen_texture_2.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Floor_01_xyz_n_rgba_uv.ply",
+    "Position": [ 10.0, 0.0, 5.0 ],
+    "FriendlyName": "floor1",
+    "ObjectType": "floor",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "SpaceInteriors_Texture.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Floor_01_xyz_n_rgba_uv.ply",
+    "Position": [ 20.0, 0.0, 10.0 ],
+    "FriendlyName": "floor10",
+    "ObjectType": "floor",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "SpaceInteriors_Texture.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Floor_01_xyz_n_rgba_uv.ply",
+    "Position": [ 20.0, 0.0, 5.0 ],
+    "FriendlyName": "floor11",
+    "ObjectType": "floor",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "SpaceInteriors_Texture.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Floor_01_xyz_n_rgba_uv.ply",
+    "Position": [ 20.0, 0.0, 0.0 ],
+    "FriendlyName": "floor12",
+    "ObjectType": "floor",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "SpaceInteriors_Texture.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Floor_01_xyz_n_rgba_uv.ply",
+    "Position": [ 0.0, 0.0, 0.0 ],
+    "FriendlyName": "floor13",
+    "ObjectType": "floor",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "SpaceInteriors_Texture.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Floor_01_xyz_n_rgba_uv.ply",
+    "Position": [ 0.0, 0.0, 5.0 ],
+    "FriendlyName": "floor14",
+    "ObjectType": "floor",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "SpaceInteriors_Texture.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Floor_01_xyz_n_rgba_uv.ply",
+    "Position": [ 0.0, 0.0, 10.0 ],
+    "FriendlyName": "floor15",
+    "ObjectType": "floor",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "SpaceInteriors_Texture.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Floor_01_xyz_n_rgba_uv.ply",
+    "Position": [ 5.0, 0.0, 10.0 ],
+    "FriendlyName": "floor16",
+    "ObjectType": "floor",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "SpaceInteriors_Texture.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Floor_01_xyz_n_rgba_uv.ply",
+    "Position": [ 10.0, 0.0, 10.0 ],
+    "FriendlyName": "floor17",
+    "ObjectType": "floor",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "SpaceInteriors_Texture.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Floor_01_xyz_n_rgba_uv.ply",
+    "Position": [ 15.0, 0.0, 10.0 ],
+    "FriendlyName": "floor18",
+    "ObjectType": "floor",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "SpaceInteriors_Texture.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Floor_01_xyz_n_rgba_uv.ply",
+    "Position": [ 10.0, 0.0, -5.0 ],
+    "FriendlyName": "floor2",
+    "ObjectType": "floor",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "SpaceInteriors_Texture.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Floor_01_xyz_n_rgba_uv.ply",
+    "Position": [ 10.0, 0.0, 0.0 ],
+    "FriendlyName": "floor3",
+    "ObjectType": "floor",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "SpaceInteriors_Texture.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Floor_01_xyz_n_rgba_uv.ply",
+    "Position": [ 5.0, 0.0, 5.0 ],
+    "FriendlyName": "floor4",
+    "ObjectType": "floor",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "SpaceInteriors_Texture.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Floor_01_xyz_n_rgba_uv.ply",
+    "Position": [ 5.0, 0.0, 0.0 ],
+    "FriendlyName": "floor5",
+    "ObjectType": "floor",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "SpaceInteriors_Texture.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Floor_01_xyz_n_rgba_uv.ply",
+    "Position": [ 5.0, 0.0, -5.0 ],
+    "FriendlyName": "floor6",
+    "ObjectType": "floor",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "SpaceInteriors_Texture.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Floor_01_xyz_n_rgba_uv.ply",
+    "Position": [ 15.0, 0.0, -5.0 ],
+    "FriendlyName": "floor7",
+    "ObjectType": "floor",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "SpaceInteriors_Texture.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Floor_01_xyz_n_rgba_uv.ply",
+    "Position": [ 15.0, 0.0, 0.0 ],
+    "FriendlyName": "floor8",
+    "ObjectType": "floor",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "SpaceInteriors_Texture.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Floor_01_xyz_n_rgba_uv.ply",
+    "Position": [ 15.0, 0.0, 5.0 ],
+    "FriendlyName": "floor9",
+    "ObjectType": "floor",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "SpaceInteriors_Texture.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Consoles_Corner_01_left_xyz_n_rgba_uv.ply",
+    "Position": [ 0.0, 0.0, 0.0 ],
+    "FriendlyName": "leftconsolecorner",
+    "ObjectType": "console",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "SpaceInteriors_Texture.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Consoles_Corner_01_screen_1_left_xyz_n_rgba_uv.ply",
+    "Position": [ 0.05000000074505806, 4.119999885559082, -0.44999998807907104 ],
+    "FriendlyName": "leftconsolecornerscreen1",
+    "ObjectType": "cornerscreen",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 0.7071067690849304, -0.7071067690849304, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.100000023841858, 0.8999999761581421 ],
+    "DebugColourRGBA": [ 0.0, 0.0, 0.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "stickers-explosion-texture.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Consoles_Corner_01_screen_2_left_xyz_n_rgba_uv.ply",
+    "Position": [ 0.0, 0.0, 0.0 ],
+    "FriendlyName": "leftconsolecornerscreen2",
+    "ObjectType": "console",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 0.5,
+    "ObjectTextures": [
+      {
+        "Name": "fingerprints_on_glass_texture.bmp",
+        "Ratio": 0.5
+      },
+      {
+        "Name": "fog_on_glass_texture.bmp",
+        "Ratio": 0.5
+      }
+    ]
+  },
+  {
+    "MeshName": "Sphere_1_unit_Radius_xyz_n_rgba_uv.ply",
+    "Position": [ 7.0, 5.0, 11.0 ],
+    "FriendlyName": "lioncamera",
+    "ObjectType": "camera",
+    "IsUsingDebugColors": true,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": []
+  },
+  {
+    "MeshName": "stuff_main_asteroid_xyz_n_rgba_uv.ply",
+    "Position": [ 29.0, -215.0, -64.0 ],
+    "FriendlyName": "main_station",
+    "ObjectType": "station",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": true,
+    "Orientation": [ -4.371138828673793e-8, -0.0, 1.0, -0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": []
+  },
+  {
+    "MeshName": "asteroid_industrial_xyz_n_rgba_uv.ply",
+    "Position": [ 29.0, -215.0, -64.0 ],
+    "FriendlyName": "main_station",
+    "ObjectType": "station",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": true,
+    "Orientation": [ -4.371138828673793e-8, -0.0, 1.0, -0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": []
+  },
+  {
+    "MeshName": "asteroid_main_xyz_n_rgba_uv.ply",
+    "Position": [ 29.0, -215.0, -64.0 ],
+    "FriendlyName": "main_station",
+    "ObjectType": "station",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": true,
+    "Orientation": [ -4.371138828673793e-8, -0.0, 1.0, -0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": []
+  },
+  {
+    "MeshName": "imposter_shapes/Quad_2_sided_aligned_on_XY_plane.ply",
+    "Position": [ 0.6582889556884766, 12.563718795776367, 0.31035032868385315 ],
+    "FriendlyName": "quad1",
+    "ObjectType": "quad",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 0.8460008502006531, 0.2741568088531494, 0.44120973348617554, 0.12017198652029037 ],
+    "DrawScale": [ 0.09742607921361923, 0.09742607921361923, 0.09742607921361923 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "stickers-explosion-texture.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "imposter_shapes/Quad_2_sided_aligned_on_XY_plane.ply",
+    "Position": [ 10.0, 20.0, 0.0 ],
+    "FriendlyName": "quad2",
+    "ObjectType": "quad",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 0.0, 0.0, 0.0, 1.0 ],
+    "DrawScale": [ 5.0, 5.0, 5.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "stickers-explosion-texture.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "Retro_TV/RetroTV.edited.bodyonly.ply",
+    "Position": [ 15.0, 1.4299999475479126, 30.0 ],
+    "FriendlyName": "retrotv1",
+    "ObjectType": "retrotv",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": true,
+    "Orientation": [ 0.7071067690849304, -0.7071067690849304, 0.0, 0.0 ],
+    "DrawScale": [ 0.10000000149011612, 0.10000000149011612, 0.10000000149011612 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": []
+  },
+  {
+    "MeshName": "Retro_TV/RetroTV.edited.screenonly.ply",
+    "Position": [ 15.0, 1.4299999475479126, 30.0 ],
+    "FriendlyName": "retrotv2",
+    "ObjectType": "retrotv",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 0.7071067690849304, -0.7071067690849304, 0.0, 0.0 ],
+    "DrawScale": [ 0.10000000149011612, 0.10000000149011612, 0.10000000149011612 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": []
+  },
+  {
+    "MeshName": "SM_Env_Consoles_Corner_01_right_xyz_n_rgba_uv.ply",
+    "Position": [ 15.0, 0.0, 0.0 ],
+    "FriendlyName": "rightconsolecorner",
+    "ObjectType": "console",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "SpaceInteriors_Texture.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Consoles_Corner_01_screen_1_right_xyz_n_rgba_uv.ply",
+    "Position": [ 14.970000267028809, 4.124000072479248, -4.550000190734863 ],
+    "FriendlyName": "rightconsolecornerscreen1",
+    "ObjectType": "cornerscreen",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 0.7071067690849304, 0.7071067690849304, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.100000023841858, 0.8999999761581421 ],
+    "DebugColourRGBA": [ 0.0, 0.0, 0.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "stickers-explosion-texture.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Consoles_Corner_01_screen_2_right_xyz_n_rgba_uv.ply",
+    "Position": [ 15.0, 0.0, 0.0 ],
+    "FriendlyName": "rightconsolecornerscreen2",
+    "ObjectType": "console",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 0.5,
+    "ObjectTextures": [
+      {
+        "Name": "fingerprints_on_glass_texture.bmp",
+        "Ratio": 0.30000001192092896
+      },
+      {
+        "Name": "fog_on_glass_texture.bmp",
+        "Ratio": 0.699999988079071
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Wall_03_xyz_n_rgba_uv.ply",
+    "Position": [ 5.0, 5.0, 0.0 ],
+    "FriendlyName": "wall1",
+    "ObjectType": "wall",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "SpaceInteriors_Texture.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Wall_03_xyz_n_rgba_uv.ply",
+    "Position": [ -5.0, 0.0, 0.0 ],
+    "FriendlyName": "wall10",
+    "ObjectType": "wall",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 0.7071067690849304, 0.0, 0.7071067690849304, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "SpaceInteriors_Texture.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Wall_03_xyz_n_rgba_uv.ply",
+    "Position": [ 20.0, 5.0, 0.0 ],
+    "FriendlyName": "wall11",
+    "ObjectType": "wall",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "SpaceInteriors_Texture.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Wall_03_xyz_n_rgba_uv.ply",
+    "Position": [ 20.0, 5.0, 5.0 ],
+    "FriendlyName": "wall12",
+    "ObjectType": "wall",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 0.7071067690849304, 0.0, -0.7071067690849304, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "SpaceInteriors_Texture.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Wall_03_xyz_n_rgba_uv.ply",
+    "Position": [ 20.0, 5.0, 10.0 ],
+    "FriendlyName": "wall13",
+    "ObjectType": "wall",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 0.7071067690849304, 0.0, -0.7071067690849304, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "SpaceInteriors_Texture.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Wall_03_xyz_n_rgba_uv.ply",
+    "Position": [ 20.0, 5.0, 15.0 ],
+    "FriendlyName": "wall14",
+    "ObjectType": "wall",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 0.7071067690849304, 0.0, -0.7071067690849304, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "SpaceInteriors_Texture.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Wall_03_xyz_n_rgba_uv.ply",
+    "Position": [ 20.0, 0.0, 15.0 ],
+    "FriendlyName": "wall15",
+    "ObjectType": "wall",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 0.7071067690849304, 0.0, -0.7071067690849304, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "SpaceInteriors_Texture.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Wall_03_xyz_n_rgba_uv.ply",
+    "Position": [ 20.0, 0.0, 10.0 ],
+    "FriendlyName": "wall16",
+    "ObjectType": "wall",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 0.7071067690849304, 0.0, -0.7071067690849304, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "SpaceInteriors_Texture.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Wall_03_xyz_n_rgba_uv.ply",
+    "Position": [ 20.0, 0.0, 0.0 ],
+    "FriendlyName": "wall17",
+    "ObjectType": "wall",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "SpaceInteriors_Texture.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Wall_03_xyz_n_rgba_uv.ply",
+    "Position": [ 15.0, 5.0, 0.0 ],
+    "FriendlyName": "wall18",
+    "ObjectType": "wall",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "SpaceInteriors_Texture.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Wall_03_xyz_n_rgba_uv.ply",
+    "Position": [ 10.0, 5.0, 0.0 ],
+    "FriendlyName": "wall19",
+    "ObjectType": "wall",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "SpaceInteriors_Texture.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Wall_03_xyz_n_rgba_uv.ply",
+    "Position": [ 20.0, 0.0, 5.0 ],
+    "FriendlyName": "wall2",
+    "ObjectType": "wall",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 0.7071067690849304, 0.0, -0.7071067690849304, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "SpaceInteriors_Texture.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Wall_03_xyz_n_rgba_uv.ply",
+    "Position": [ 0.0, 0.0, 0.0 ],
+    "FriendlyName": "wall3",
+    "ObjectType": "wall",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "SpaceInteriors_Texture.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Wall_03_xyz_n_rgba_uv.ply",
+    "Position": [ 0.0, 5.0, 0.0 ],
+    "FriendlyName": "wall4",
+    "ObjectType": "wall",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "SpaceInteriors_Texture.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Wall_03_xyz_n_rgba_uv.ply",
+    "Position": [ -5.0, 5.0, 0.0 ],
+    "FriendlyName": "wall5",
+    "ObjectType": "wall",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 0.7071067690849304, 0.0, 0.7071067690849304, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "SpaceInteriors_Texture.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Wall_03_xyz_n_rgba_uv.ply",
+    "Position": [ -5.0, 5.0, 5.0 ],
+    "FriendlyName": "wall6",
+    "ObjectType": "wall",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 0.7071067690849304, 0.0, 0.7071067690849304, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "SpaceInteriors_Texture.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Wall_03_xyz_n_rgba_uv.ply",
+    "Position": [ -5.0, 5.0, 10.0 ],
+    "FriendlyName": "wall7",
+    "ObjectType": "wall",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 0.7071067690849304, 0.0, 0.7071067690849304, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "SpaceInteriors_Texture.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Wall_03_xyz_n_rgba_uv.ply",
+    "Position": [ -5.0, 0.0, 10.0 ],
+    "FriendlyName": "wall8",
+    "ObjectType": "wall",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 0.7071067690849304, 0.0, 0.7071067690849304, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "SpaceInteriors_Texture.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Wall_03_xyz_n_rgba_uv.ply",
+    "Position": [ -5.0, 0.0, 5.0 ],
+    "FriendlyName": "wall9",
+    "ObjectType": "wall",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 0.7071067690849304, 0.0, 0.7071067690849304, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "SpaceInteriors_Texture.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  }
+]

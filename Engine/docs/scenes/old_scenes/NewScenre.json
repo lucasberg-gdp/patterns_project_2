@@ -1,0 +1,16 @@
+[
+  {
+    "MeshName": "shapes/Sphere_1_unit_Radius_xyz_n_rgba_uv.ply",
+    "Position": [ 0.0, 0.0, 0.0 ],
+    "FriendlyName": "maincamera",
+    "ObjectType": "camera",
+    "IsUsingDebugColors": true,
+    "IsUsingVertexColors": false,
+    "IsUsingBones": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": []
+  }
+]

@@ -1,0 +1,658 @@
+[
+  {
+    "MeshName": "shapes/Sphere_1_unit_Radius_xyz_n_rgba_uv.ply",
+    "Position": [ 8.0, 10.0, -15.0 ],
+    "FriendlyName": "lioncamera",
+    "ObjectType": "camera",
+    "IsUsingDebugColors": true,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "Water_Texture_01.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "imposter_shapes/Quad_2_sided_aligned_on_XY_plane.ply",
+    "Position": [ 70.0, 17.0, 0.0 ],
+    "FriendlyName": "quad1",
+    "ObjectType": "quad",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ -0.12758688628673553, 0.0950993075966835, -0.0533168688416481, -0.9858165979385376 ],
+    "DrawScale": [ 0.008395306766033173, 0.008395306766033173, 0.008395306766033173 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "stickers-explosion-texture.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "Beach/SM_Env_Beach_01.fbx",
+    "Position": [ 70.0, 0.0, 0.0 ],
+    "FriendlyName": "Beach/SM_Env_Beach_01.fbx",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "Beach/SM_Env_Beach_02.fbx",
+    "Position": [ 0.0, 0.0, 0.0 ],
+    "FriendlyName": "Beach/SM_Env_Beach_02.fbx",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 4.0, 1.0, 4.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "Beach/SM_Env_Beach_03.fbx",
+    "Position": [ 50.0, 0.0, 60.0 ],
+    "FriendlyName": "Beach/SM_Env_Beach_03.fbx",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "Beach/SM_Env_Beach_04.fbx",
+    "Position": [ -20.0, 0.0, 50.0 ],
+    "FriendlyName": "Beach/SM_Env_Beach_04.fbx",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Grass_02.dae",
+    "Position": [ 0.0, 0.0, 0.0 ],
+    "FriendlyName": "SM_Env_Grass_02.dae",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Grass_02.dae",
+    "Position": [ 24.0, 0.8999999761581421, 6.0 ],
+    "FriendlyName": "SM_Env_Grass_02.dae",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Bld_Cuba_Hall_Tower_01.dae",
+    "Position": [ -18.0, 0.10000000149011612, 15.0 ],
+    "FriendlyName": "SM_Bld_Cuba_Hall_Tower_01.dae",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Bld_Dock_01.dae",
+    "Position": [ 24.0, -0.5, 0.0 ],
+    "FriendlyName": "SM_Bld_Dock_01.dae",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 0.7071067690849304, 0.0, 0.7071067690849304, 0.0 ],
+    "DrawScale": [ 1.0, 0.30000001192092896, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Bld_Dock_01.dae",
+    "Position": [ 33.599998474121094, -0.5, 0.0 ],
+    "FriendlyName": "prop9",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 0.7071067690849304, 0.0, 0.7071067690849304, 0.0 ],
+    "DrawScale": [ 1.0, 0.30000001192092896, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Bld_Dock_01.dae",
+    "Position": [ 30.0, -0.5, 0.0 ],
+    "FriendlyName": "prop10",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 0.7071067690849304, 0.0, 0.7071067690849304, 0.0 ],
+    "DrawScale": [ 1.0, 0.30000001192092896, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Bld_Dock_01.dae",
+    "Position": [ 27.0, -0.5, 0.0 ],
+    "FriendlyName": "prop11",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 0.7071067690849304, 0.0, 0.7071067690849304, 0.0 ],
+    "DrawScale": [ 1.0, 0.30000001192092896, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Bld_Shanty_Preset_04.dae",
+    "Position": [ 0.0, 0.0, -20.0 ],
+    "FriendlyName": "SM_Bld_Shanty_Preset_04.dae",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Prop_Campfire_01.dae",
+    "Position": [ 70.0, 1.2000000476837158, 0.0 ],
+    "FriendlyName": "SM_Prop_Campfire_01.dae",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Bush_02.dae",
+    "Position": [ 73.0, 1.5, 4.0 ],
+    "FriendlyName": "SM_Env_Bush_02.dae",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Bush_02.dae",
+    "Position": [ 70.0, 1.399999976158142, 5.0 ],
+    "FriendlyName": "prop15",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Fern_01.dae",
+    "Position": [ 62.0, 1.0, 0.0 ],
+    "FriendlyName": "SM_Env_Fern_01.dae",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Fern_01.dae",
+    "Position": [ 62.0, 0.10000000149011612, 5.0 ],
+    "FriendlyName": "prop17",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Fern_01.dae",
+    "Position": [ 62.0, 0.5, 4.0 ],
+    "FriendlyName": "prop18",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Grass_01.dae",
+    "Position": [ 75.0, 1.25, 0.0 ],
+    "FriendlyName": "SM_Env_Grass_01.dae",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Plants_01.dae",
+    "Position": [ 52.0, 0.10000000149011612, 70.0 ],
+    "FriendlyName": "SM_Env_Plants_01.dae",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Plants_01.dae",
+    "Position": [ 53.0, 0.0, 70.0 ],
+    "FriendlyName": "prop21",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Plants_01.dae",
+    "Position": [ 54.0, 0.0, 70.0 ],
+    "FriendlyName": "prop22",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Bramble_01.ply",
+    "Position": [ 70.0, 1.2999999523162842, 0.0 ],
+    "FriendlyName": "fireimpostor1",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 0.7892639636993408, 1.322798226510713e-8, 0.6140540242195129, 1.322798226510713e-8 ],
+    "DrawScale": [ 0.004999999888241291, 0.001500000013038516, 0.004999999888241291 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "Fire_texture.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Env_Bramble_01.ply",
+    "Position": [ 70.0, 1.2999999523162842, 0.0 ],
+    "FriendlyName": "fireimpostor2",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 0.7424183487892151, 5.47222001046066e-9, 0.6699365973472595, 5.47222001046066e-9 ],
+    "DrawScale": [ 0.004999999888241291, 0.001500000013038516, 0.004999999888241291 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "Fire_texture.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Bld_Cuba_Hall_Front_01.dae",
+    "Position": [ 0.0, 2.0, 9.0 ],
+    "FriendlyName": "SM_Bld_Cuba_Hall_Front_01.dae",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Bld_Cuba_Hall_Room_01.dae",
+    "Position": [ 10.0, 1.7000000476837158, 0.0 ],
+    "FriendlyName": "SM_Bld_Cuba_Hall_Room_01.dae",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Bld_Fort_Base_01.dae",
+    "Position": [ 0.0, 0.0, 0.0 ],
+    "FriendlyName": "SM_Bld_Fort_Base_01.dae",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 0.5, 1.0, 0.5 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Bld_Stone_Wall_01.dae",
+    "Position": [ -7.400000095367432, 10.0, 0.0 ],
+    "FriendlyName": "SM_Bld_Stone_Wall_01.dae",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 0.7071067690849304, 0.0, 0.7071067690849304, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Bld_Stone_Wall_01.dae",
+    "Position": [ 7.400000095367432, 10.0, 0.0 ],
+    "FriendlyName": "prop29",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 0.7071067690849304, 0.0, 0.7071067690849304, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Prop_Sign_Attachment_01.dae",
+    "Position": [ -1.5, 4.0, -18.0 ],
+    "FriendlyName": "SM_Prop_Sign_Attachment_01.dae",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 0.7071067690849304, 0.0, -0.7071067690849304, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Item_Map_02.dae",
+    "Position": [ 3.0, 14.0, 0.0 ],
+    "FriendlyName": "SM_Item_Map_02.dae",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 0.4999999701976776, -0.4999999701976776, 0.4999999701976776, -0.4999999701976776 ],
+    "DrawScale": [ 8.0, 1.0, 6.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "SM_Item_Map_02.dae",
+    "Position": [ -3.0, 14.0, 0.0 ],
+    "FriendlyName": "prop32",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 0.4999999701976776, -0.4999999701976776, 0.4999999701976776, -0.4999999701976776 ],
+    "DrawScale": [ 8.0, 1.0, 6.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "Texture_01_A.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "imposter_shapes/Quad_2_sided_aligned_on_XY_plane.ply",
+    "Position": [ 3.0, 14.0, -0.10000000149011612 ],
+    "FriendlyName": "leftmapscreen",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ -4.371138828673793e-8, -0.0, 1.0, -0.0 ],
+    "DrawScale": [ 2.25, 1.7999999523162842, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "Texture_01_A.bmp",
+        "Ratio": 0.5
+      },
+      {
+        "Name": "Pirate_Map_texture.bmp",
+        "Ratio": 0.5
+      }
+    ]
+  },
+  {
+    "MeshName": "imposter_shapes/Quad_2_sided_aligned_on_XY_plane.ply",
+    "Position": [ -3.0, 14.0, -0.10000000149011612 ],
+    "FriendlyName": "rightmapscreen",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ -4.371138828673793e-8, -0.0, 0.0, 1.0 ],
+    "DrawScale": [ 2.25, 1.7999999523162842, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "Texture_01_A.bmp",
+        "Ratio": 1.0
+      },
+      {
+        "Name": "Pirate_Map_texture.bmp",
+        "Ratio": 0.5
+      }
+    ]
+  }
+]

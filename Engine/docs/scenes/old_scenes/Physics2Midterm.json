@@ -1,0 +1,113 @@
+[
+  {
+    "MeshName": "Flag_Grid_xyz_rgba_n_uv.ply",
+    "Position": [ 2.5999999046325684, 37.5, 0.0 ],
+    "FriendlyName": "flag",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": []
+  },
+  {
+    "MeshName": "Flag_Pole_xyz_n_rgba_uv.ply",
+    "Position": [ 0.0, 30.0, 0.0 ],
+    "FriendlyName": "flagpole",
+    "ObjectType": "prop",
+    "IsUsingDebugColors": true,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 0.10000000149011612, 10.0, 0.10000000149011612 ],
+    "DebugColourRGBA": [ 0.0, 0.0, 0.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "ground_texture.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "Sphere_1_unit_Radius_xyz_n_rgba_uv.ply",
+    "Position": [ 7.0, 5.0, 11.0 ],
+    "FriendlyName": "lioncamera",
+    "ObjectType": "camera",
+    "IsUsingDebugColors": true,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": []
+  },
+  {
+    "MeshName": "imposter_shapes/Quad_2_sided_aligned_on_XY_plane.ply",
+    "Position": [ 0.19880345463752747, 14.263542175292969, -1.3583011627197266 ],
+    "FriendlyName": "quad1",
+    "ObjectType": "quad",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ -0.7708239555358887, 0.39088502526283264, 0.0007494650781154633, 0.5028876066207886 ],
+    "DrawScale": [ 0.12770433723926544, 0.12770433723926544, 0.12770433723926544 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "stickers-explosion-texture.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "imposter_shapes/Quad_2_sided_aligned_on_XY_plane.ply",
+    "Position": [ 10.0, 20.0, 0.0 ],
+    "FriendlyName": "quad2",
+    "ObjectType": "quad",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 0.0, 0.0, 0.0, 1.0 ],
+    "DrawScale": [ 5.0, 5.0, 5.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "stickers-explosion-texture.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  },
+  {
+    "MeshName": "Retro_TV/RetroTV.edited.screenonly.ply",
+    "Position": [ 15.0, 1.4299999475479126, 30.0 ],
+    "FriendlyName": "retrotv2",
+    "ObjectType": "retrotv",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 0.7071067690849304, -0.7071067690849304, 0.0, 0.0 ],
+    "DrawScale": [ 0.10000000149011612, 0.10000000149011612, 0.10000000149011612 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": []
+  },
+  {
+    "MeshName": "Terrain_xyz_n_rgba_uv.ply",
+    "Position": [ 0.0, 0.0, 0.0 ],
+    "FriendlyName": "terrain1",
+    "ObjectType": "floor",
+    "IsUsingDebugColors": false,
+    "IsUsingVertexColors": false,
+    "Orientation": [ 1.0, 0.0, 0.0, 0.0 ],
+    "DrawScale": [ 1.0, 1.0, 1.0 ],
+    "DebugColourRGBA": [ 1.0, 1.0, 1.0, 1.0 ],
+    "Alpha": 1.0,
+    "ObjectTextures": [
+      {
+        "Name": "ground_texture.bmp",
+        "Ratio": 1.0
+      }
+    ]
+  }
+]
